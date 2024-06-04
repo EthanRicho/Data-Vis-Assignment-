@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COS30045 - Data Visualisation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+
+        <div class="headerLeft">
+        <h1>COS30045</h1>
+        </div>
+
+        <div class="headerRight">
+        <nav>
+            <button id="homeBtn">HOME</button>
+            <button id="abtBtn">ABOUT US</button>
+        </nav>
+        </div>
+
+    </header>
+
+    <main>
+
+        <section id="largeImage"></section>
+        <section id = "rightContainers">
+            <div id = titleText>
+                <h2>DATA VISUALISATION - ALCOHOL CONSUMPTION</h2>
+            </div>
+            <div id = "text">
+                <p>
+                    Alcohol is a recreational drug that affects the way our body functions 
+                    and can be addictive if not consumed in moderation.
+                </p>
+                <p>
+                    This website presents visualized charts that will go into detail on how 
+                    alcoholism has affected Australians
+                </p>
+                <p>
+                    The primary audience for these interconnected sets of data is 
+                    Australia’s Department of Health and Aged Care, alongside policy makers 
+                    who will work together to enforce public policies, economic decisions, and 
+                    social welfare programs to effectively reduce alcohol consumption. Based on 
+                    the visualizations, the government can raise public awareness of the harmful 
+                    effects of alcohol and how it ties to the country’s current rate of unemployment. 
+                    In a similar fashion, healthcare professionals will also find value in this 
+                    information as a secondary audience.
+                </p>
+            </div>
+            <div id = "carouselContent">
+                <div id="graphImage"></div>
+                <div id="graphInfo">
+                    <h3 id="graphTitle">GRAPH 1</h3>
+                    <p id="graphSubtitle">Global View</p>
+                    <div id="graphControls">
+                        <button id="viewBtn">VIEW</button>
+                        <button id="playBtn">&#9654;</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+
+    <div id="chart"></div>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="Graph.js"></script>
+    <script src="homeScript.js"></script>
+</body>
+</html>

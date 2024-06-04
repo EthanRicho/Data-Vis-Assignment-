@@ -1,0 +1,122 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 0.1rem;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.headerLeft{
+    margin-left: 0.25rem;
+}
+
+.headerRight{
+    margin-right: 25.5rem;
+}
+
+nav button {
+    padding: 0.5rem 1rem;
+    background-color: #f0f0f0;
+    color: black;
+    border: none;
+    cursor: pointer;
+    margin-left: 0.75rem;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    padding: 0.25rem;
+    justify-content:space-evenly;
+    height: calc(100vh - 90px);
+}
+
+#largeImage {
+    flex: 3;
+    background-image: url('Australia-homePage.jpg');
+    background-size: cover;
+    background-position: center;
+    border-top: 2px solid #000000;
+    border-left: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+}
+
+#rightContainers {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #000000;
+}
+
+#abtUsText{
+    text-align: center;
+}
+
+#titleText{
+    background-color: #333;
+    font-style: bold;
+    text-align: center;
+    color: white;
+}
+
+#text {
+    flex: 1;
+    background-color: #e0e0e0;
+    padding: 1rem;
+    border-bottom: 2px solid #000000;
+    text-align: justify;    
+}
+
+#carouselContent {
+    flex: 2;
+    display: flex;
+    background-color: #f0f0f0;
+}
+
+#graphImage {
+    flex: 1;
+    background-image: url('graph1.png');
+    background-size: cover;
+    background-position: center;
+    border-right: 2px solid #000000;
+    
+}
+
+#graphInfo {
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#graphControls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#viewBtn {
+    padding: 0.25rem 0.5rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#playBtn {
+    background: none;
+    border: none;
+    color: #333;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
