@@ -1,122 +1,30 @@
-body {
-    font-family: Arial;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-}
-
-
-header {
-    background-color: #333;
-    color: white;
-    padding: 0.1rem;
+.gradient-legend {
+    position: absolute;
+    bottom: 20px; /* Adjust distance from the bottom */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 20px; /* Adjust height as needed */
+    background-color: white;
+    border: 1px solid white; /* White border */
+    z-index: 9999; /* Ensure it's above other content */
     display: flex;
-    justify-content:space-between;
     align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
 }
 
-.headerLeft{
-    margin-left: 0.25rem;
+.gradient-bar {
+    flex: 1;
+    height: 100%;
+    background: linear-gradient(to right, 
+        #d0e1f9, #c0d8f0, #b0cfe8, #a0c7df, #90bed7, #80b5cf, 
+        #70adc6, #60a4be, #509cb6, #4093ad, #308aa5, #20819d, 
+        #107895, #006f8c, #006684, #005d7c, #005473, #004b6b, 
+        #004262, #011925);
 }
 
-.headerRight{
-    margin-right: 25.5rem;
-}
-
-nav button {
-    padding: 0.5rem 1rem;
-    background-color: #f0f0f0;
-    color: black;
-    border: none;
-    cursor: pointer;
-    margin-left: 0.75rem;
+.legend-label {
+    font-size: 12px;
     font-weight: bold;
-}
-
-main {
-    display: flex;
-    padding: 0.25rem;
-    justify-content:space-evenly;
-    height: calc(100vh - 90px);
-}
-
-#largeImage {
-    flex: 3;
-    background-image: url('Australia-homePage.jpg');
-    background-size: cover;
-    background-position: center;
-    border-top: 2px solid #000000;
-    border-left: 2px solid #000000;
-    border-bottom: 2px solid #000000;
-}
-
-#rightContainers {
-    flex: 2;
-    display: flex;
-    flex-direction: column;
-    border: 2px solid #000000;
-}
-
-#abtUsText{
-    text-align: center;
-}
-
-#titleText{
-    background-color: #333;
-    font-style: bold;
-    text-align: center;
-    color: white;
-}
-
-#text {
-    flex: 1;
-    background-color: #e0e0e0;
-    padding: 1rem;
-    border-bottom: 2px solid #000000;
-    text-align: justify;    
-}
-
-#carouselContent {
-    flex: 2;
-    display: flex;
-    background-color: #f0f0f0;
-}
-
-#graphImage {
-    flex: 1;
-    background-image: url('graph1.png');
-    background-size: cover;
-    background-position: center;
-    border-right: 2px solid #000000;
-    
-}
-
-#graphInfo {
-    flex: 1;
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-#graphControls {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-#viewBtn {
-    padding: 0.25rem 0.5rem;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-#playBtn {
-    background: none;
-    border: none;
-    color: #333;
-    font-size: 1.5rem;
-    cursor: pointer;
 }

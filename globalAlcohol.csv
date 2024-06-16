@@ -1,0 +1,2825 @@
+﻿Code,Country,Year,Sex,Litres
+AFG,Afghanistan,2019,F,0.004
+BGD,Bangladesh,2019,F,0.001
+KWT,Kuwait,2019,A,0
+KWT,Kuwait,2019,F,0
+KWT,Kuwait,2019,M,0
+LBY,Libya,2019,F,0.002
+MRT,Mauritania,2019,A,0
+MRT,Mauritania,2019,F,0
+MRT,Mauritania,2019,M,0
+SAU,Saudi Arabia,2019,A,0
+SAU,Saudi Arabia,2019,F,0
+SAU,Saudi Arabia,2019,M,0
+SOM,Somalia,2019,A,0
+SOM,Somalia,2019,F,0
+SOM,Somalia,2019,M,0
+SDN,Sudan,2019,F,0.001
+AFG,Afghanistan,2019,A,0.016
+BGD,Bangladesh,2019,A,0.005
+BGD,Bangladesh,2019,M,0.009
+EGY,Egypt,2019,F,0.035
+IDN,Indonesia,2019,F,0.027
+LBY,Libya,2019,A,0.008
+NER,Niger,2019,F,0.034
+PAK,Pakistan,2019,F,0.028
+SDN,Sudan,2019,A,0.005
+SDN,Sudan,2019,M,0.009
+YEM,Yemen,2019,F,0.006
+SYR,Syrian Arab Republic,2019,F,0.044
+YEM,Yemen,2019,A,0.028
+AFG,Afghanistan,2019,M,0.029
+LBY,Libya,2019,M,0.015
+YEM,Yemen,2019,M,0.049
+BTN,Bhutan,2019,F,0.063
+COM,Comoros,2019,F,0.057
+IRQ,Iraq,2019,F,0.061
+JOR,Jordan,2019,F,0.072
+SLE,Sierra Leone,2019,F,0.066
+DZA,Algeria,2019,F,0.14
+DJI,Djibouti,2019,F,0.098
+GIN,Guinea,2019,F,0.13
+MAR,Morocco,2019,F,0.11
+SEN,Senegal,2019,F,0.11
+IRN,Iran (Islamic Republic of),2019,F,0.15
+TLS,Timor-Leste,2019,F,0.15
+TON,Tonga,2019,F,0.13
+IDN,Indonesia,2019,A,0.11
+NER,Niger,2019,A,0.13
+PAK,Pakistan,2019,A,0.1
+BRN,Brunei Darussalam,2019,F,0.14
+EGY,Egypt,2019,A,0.15
+OMN,Oman,2019,F,0.17
+MYS,Malaysia,2019,F,0.21
+TJK,Tajikistan,2019,F,0.24
+SYR,Syrian Arab Republic,2019,A,0.2
+BTN,Bhutan,2019,A,0.2
+IDN,Indonesia,2019,M,0.19
+IRQ,Iraq,2019,A,0.24
+PAK,Pakistan,2019,M,0.18
+NER,Niger,2019,M,0.23
+MDV,Maldives,2019,F,0.27
+KIR,Kiribati,2019,F,0.26
+COM,Comoros,2019,A,0.25
+SLE,Sierra Leone,2019,A,0.26
+JOR,Jordan,2019,A,0.31
+EGY,Egypt,2019,M,0.26
+BTN,Bhutan,2019,M,0.32
+QAT,Qatar,2019,F,0.26
+BHR,Bahrain,2019,F,0.34
+GMB,Gambia,2019,F,0.34
+TLS,Timor-Leste,2019,A,0.4
+DJI,Djibouti,2019,A,0.4
+SEN,Senegal,2019,A,0.41
+TON,Tonga,2019,A,0.38
+SYR,Syrian Arab Republic,2019,M,0.36
+IRQ,Iraq,2019,M,0.43
+BRN,Brunei Darussalam,2019,A,0.41
+ERI,Eritrea,2019,F,0.37
+MDG,Madagascar,2019,F,0.35
+LBN,Lebanon,2019,F,0.4
+TUR,TÃ¼rkiye,2019,F,0.44
+TUV,Tuvalu,2019,F,0.4
+ARE,United Arab Emirates,2019,F,0.41
+GIN,Guinea,2019,A,0.47
+MAR,Morocco,2019,A,0.49
+COM,Comoros,2019,M,0.45
+SLE,Sierra Leone,2019,M,0.47
+JOR,Jordan,2019,M,0.52
+NPL,Nepal,2019,F,0.48
+TUN,Tunisia,2019,F,0.49
+AZE,Azerbaijan,2019,F,0.54
+TGO,Togo,2019,F,0.52
+DZA,Algeria,2019,A,0.61
+TLS,Timor-Leste,2019,M,0.65
+TON,Tonga,2019,M,0.64
+PNG,Papua New Guinea,2019,F,0.57
+SLB,Solomon Islands,2019,F,0.55
+GTM,Guatemala,2019,F,0.63
+IRN,Iran (Islamic Republic of),2019,A,0.7
+DJI,Djibouti,2019,M,0.72
+SEN,Senegal,2019,M,0.73
+BRN,Brunei Darussalam,2019,M,0.66
+VUT,Vanuatu,2019,F,0.65
+MOZ,Mozambique,2019,F,0.68
+RWA,Rwanda,2019,F,0.69
+FSM,Micronesia (Federated States of),2019,F,0.72
+UZB,Uzbekistan,2019,F,0.71
+MYS,Malaysia,2019,A,0.76
+GIN,Guinea,2019,M,0.83
+KIR,Kiribati,2019,A,0.76
+MMR,Myanmar,2019,F,0.77
+CAF,Central African Republic,2019,F,0.79
+WSM,Samoa,2019,F,0.81
+SGP,Singapore,2019,F,0.8
+TKM,Turkmenistan,2019,F,0.84
+MAR,Morocco,2019,M,0.86
+TJK,Tajikistan,2019,A,0.87
+OMN,Oman,2019,A,0.88
+COD,Democratic Republic of the Congo,2019,F,0.86
+MDG,Madagascar,2019,A,1.02
+CIV,Cote d'Ivoire,2019,F,0.95
+ETH,Ethiopia,2019,F,1.04
+KEN,Kenya,2019,F,1
+NRU,Nauru,2019,F,1.04
+LKA,Sri Lanka,2019,F,1.02
+DZA,Algeria,2019,M,1.07
+GMB,Gambia,2019,A,1.11
+QAT,Qatar,2019,A,1.15
+IRN,Iran (Islamic Republic of),2019,M,1.25
+OMN,Oman,2019,M,1.21
+ERI,Eritrea,2019,A,1.23
+TUV,Tuvalu,2019,A,1.25
+TCD,Chad,2019,F,1.2
+FJI,Fiji,2019,F,1.16
+MWI,Malawi,2019,F,1.16
+VEN,Venezuela (Bolivarian Republic of),2019,F,1.16
+HND,Honduras,2019,F,1.22
+ZWE,Zimbabwe,2019,F,1.25
+MLI,Mali,2019,F,1.22
+MYS,Malaysia,2019,M,1.29
+KIR,Kiribati,2019,M,1.31
+ISR,Israel,2019,F,1.28
+CRI,Costa Rica,2019,F,1.3
+SLV,El Salvador,2019,F,1.32
+MDV,Maldives,2019,A,1.43
+NPL,Nepal,2019,A,1.36
+QAT,Qatar,2019,M,1.4
+TGO,Togo,2019,A,1.42
+HTI,Haiti,2019,F,1.4
+NGA,Nigeria,2019,F,1.37
+JAM,Jamaica,2019,F,1.44
+GNB,Guinea-Bissau,2019,F,1.4
+KAZ,Kazakhstan,2019,F,1.43
+LSO,Lesotho,2019,F,1.43
+LBR,Liberia,2019,F,1.43
+TJK,Tajikistan,2019,M,1.5
+LBN,Lebanon,2019,A,1.48
+ECU,Ecuador,2019,F,1.49
+ZMB,Zambia,2019,F,1.48
+BDI,Burundi,2019,F,1.54
+KGZ,Kyrgyzstan,2019,F,1.47
+BHR,Bahrain,2019,A,1.58
+GTM,Guatemala,2019,A,1.63
+SLB,Solomon Islands,2019,A,1.62
+IND,India,2019,F,1.56
+NIC,Nicaragua,2019,F,1.64
+MKD,North Macedonia,2019,F,1.63
+MDG,Madagascar,2019,M,1.69
+PNG,Papua New Guinea,2019,A,1.7
+PRK,Democratic People's Republic of Korea,2019,F,1.73
+TUR,TÃ¼rkiye,2019,A,1.82
+GHA,Ghana,2019,F,1.75
+BHS,Bahamas,2019,F,1.87
+VUT,Vanuatu,2019,A,1.87
+GMB,Gambia,2019,M,1.91
+RWA,Rwanda,2019,A,1.88
+SGP,Singapore,2019,A,1.87
+BOL,Bolivia (Plurinational State of),2019,F,1.9
+ALB,Albania,2019,F,1.88
+COL,Colombia,2019,F,1.91
+CPV,Cabo Verde,2019,M,10.01
+CMR,Cameroon,2019,A,10.1
+COG,Congo,2019,M,10.13
+AUS,Australia,2019,A,10.09
+KNA,Saint Kitts and Nevis,2019,M,10.28
+NAM,Namibia,2019,M,10.27
+BEL,Belgium,2019,A,10.28
+MNE,Montenegro,2019,A,10.34
+TZA,United Republic of Tanzania,2019,A,10.36
+RUS,Russian Federation,2019,A,10.42
+GNQ,Equatorial Guinea,2019,M,10.42
+CHE,Switzerland,2019,A,10.4
+PRT,Portugal,2019,A,10.45
+NOR,Norway,2019,M,10.49
+CHL,Chile,2019,M,10.51
+SVK,Slovakia,2019,A,10.48
+COK,Cook Islands,2019,A,10.56
+PAN,Panama,2019,M,10.6
+HUN,Hungary,2019,A,10.6
+DOM,Dominican Republic,2019,M,10.7
+BIH,Bosnia and Herzegovina,2019,M,10.75
+JPN,Japan,2019,M,10.74
+SUR,Suriname,2019,M,10.77
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,A,10.82
+BLR,Belarus,2019,A,10.9
+ESP,Spain,2019,A,10.91
+SVN,Slovenia,2019,A,10.98
+AND,Andorra,2019,A,11.05
+VCT,Saint Vincent and the Grenadines,2019,M,11.26
+EST,Estonia,2019,A,11.26
+GRC,Greece,2019,M,11.34
+FRA,France,2019,A,11.3
+MDA,Republic of Moldova,2019,A,11.36
+GAB,Gabon,2019,M,11.46
+LAO,Lao People's Democratic Republic,2019,A,11.52
+LUX,Luxembourg,2019,A,11.53
+PER,Peru,2019,M,11.58
+POL,Poland,2019,A,11.63
+IRL,Ireland,2019,A,11.7
+LTU,Lithuania,2019,A,11.79
+BGR,Bulgaria,2019,A,11.92
+SYC,Seychelles,2019,A,11.99
+AUT,Austria,2019,A,11.97
+UGA,Uganda,2019,A,12.21
+DEU,Germany,2019,A,12.22
+BRA,Brazil,2019,M,12.32
+ISL,Iceland,2019,M,12.28
+MUS,Mauritius,2019,M,12.45
+ARG,Argentina,2019,M,12.56
+ITA,Italy,2019,M,12.72
+CYP,Cyprus,2019,M,12.7
+MNG,Mongolia,2019,M,12.71
+GRD,Grenada,2019,M,12.84
+KOR,Republic of Korea,2019,M,12.79
+SRB,Serbia,2019,M,12.94
+MLT,Malta,2019,M,13.03
+THA,Thailand,2019,M,13.01
+LVA,Latvia,2019,A,13.09
+CZE,Czechia,2019,A,13.29
+BEN,Benin,2019,M,13.52
+SWZ,Eswatini,2019,M,13.66
+HRV,Croatia,2019,M,13.79
+KHM,Cambodia,2019,M,13.8
+BWA,Botswana,2019,M,13.82
+ATG,Antigua and Barbuda,2019,M,14.02
+GEO,Georgia,2019,A,14.33
+FIN,Finland,2019,M,14.38
+SWE,Sweden,2019,M,14.42
+NLD,Netherlands (Kingdom of the),2019,M,14.51
+DNK,Denmark,2019,M,14.64
+UKR,Ukraine,2019,M,14.57
+USA,United States of America,2019,M,15.03
+LCA,Saint Lucia,2019,M,15.15
+ZAF,South Africa,2019,M,15.2
+VNM,Viet Nam,2019,M,15.26
+NZL,New Zealand,2019,M,15.36
+CAN,Canada,2019,M,15.59
+AUS,Australia,2019,M,15.62
+BRB,Barbados,2019,M,15.67
+NIU,Niue,2019,M,15.97
+BEL,Belgium,2019,M,16.16
+CHE,Switzerland,2019,M,16.19
+CMR,Cameroon,2019,M,16.18
+BFA,Burkina Faso,2019,M,16.59
+SVK,Slovakia,2019,M,16.74
+PRT,Portugal,2019,M,16.89
+MNE,Montenegro,2019,M,16.86
+AND,Andorra,2019,M,16.94
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,M,16.95
+ROU,Romania,2019,A,16.99
+HUN,Hungary,2019,M,17.22
+ESP,Spain,2019,M,17.26
+SVN,Slovenia,2019,M,17.33
+TZA,United Republic of Tanzania,2019,M,17.55
+LUX,Luxembourg,2019,M,17.6
+COK,Cook Islands,2019,M,17.88
+RUS,Russian Federation,2019,M,17.95
+FRA,France,2019,M,18.04
+LAO,Lao People's Democratic Republic,2019,M,18.15
+IRL,Ireland,2019,M,18.06
+BLR,Belarus,2019,M,18.19
+EST,Estonia,2019,M,18.4
+SYC,Seychelles,2019,M,18.41
+MDA,Republic of Moldova,2019,M,18.49
+POL,Poland,2019,M,18.67
+AUT,Austria,2019,M,18.81
+DEU,Germany,2019,M,19.22
+LTU,Lithuania,2019,M,19.34
+BGR,Bulgaria,2019,M,19.51
+UGA,Uganda,2019,M,19.93
+AZE,Azerbaijan,2019,A,1.97
+TUN,Tunisia,2019,A,2.01
+CAF,Central African Republic,2019,A,1.99
+MOZ,Mozambique,2019,A,2.03
+NAM,Namibia,2019,F,2
+ERI,Eritrea,2019,M,2.15
+TUV,Tuvalu,2019,M,2.06
+COD,Democratic Republic of the Congo,2019,A,2.12
+FSM,Micronesia (Federated States of),2019,A,2.12
+MMR,Myanmar,2019,A,2.12
+STP,Sao Tome and Principe,2019,F,2.09
+MDV,Maldives,2019,M,2.22
+BHR,Bahrain,2019,M,2.23
+ARM,Armenia,2019,F,2.15
+GUY,Guyana,2019,F,2.19
+BIH,Bosnia and Herzegovina,2019,F,2.23
+TGO,Togo,2019,M,2.31
+MEX,Mexico,2019,F,2.3
+CHN,China,2019,F,2.28
+CUB,Cuba,2019,F,2.34
+NPL,Nepal,2019,M,2.4
+WSM,Samoa,2019,A,2.39
+ARE,United Arab Emirates,2019,A,2.37
+BLZ,Belize,2019,F,2.38
+PRY,Paraguay,2019,F,2.37
+DMA,Dominica,2019,F,2.44
+TTO,Trinidad and Tobago,2019,F,2.42
+PHL,Philippines,2019,F,2.4
+URY,Uruguay,2019,F,2.49
+LBN,Lebanon,2019,M,2.65
+UZB,Uzbekistan,2019,A,2.6
+CPV,Cabo Verde,2019,F,2.63
+SUR,Suriname,2019,F,2.57
+PAN,Panama,2019,F,2.65
+SLB,Solomon Islands,2019,M,2.65
+PNG,Papua New Guinea,2019,M,2.75
+GTM,Guatemala,2019,M,2.67
+KNA,Saint Kitts and Nevis,2019,F,2.66
+AGO,Angola,2019,F,2.71
+COG,Congo,2019,F,2.72
+SWZ,Eswatini,2019,F,2.73
+MUS,Mauritius,2019,F,2.75
+CIV,Cote d'Ivoire,2019,A,2.8
+LKA,Sri Lanka,2019,A,2.83
+DOM,Dominican Republic,2019,F,2.82
+GNQ,Equatorial Guinea,2019,F,2.79
+VCT,Saint Vincent and the Grenadines,2019,F,2.84
+BWA,Botswana,2019,F,2.81
+SGP,Singapore,2019,M,2.85
+KEN,Kenya,2019,A,2.87
+TKM,Turkmenistan,2019,A,2.93
+NRU,Nauru,2019,A,2.94
+GAB,Gabon,2019,F,2.94
+JPN,Japan,2019,F,2.89
+ZAF,South Africa,2019,F,2.93
+CZE,Czechia,2019,M,21.09
+LVA,Latvia,2019,M,21.73
+GEO,Georgia,2019,M,24.31
+ROU,Romania,2019,M,27.3
+ISR,Israel,2019,A,3.01
+VEN,Venezuela (Bolivarian Republic of),2019,A,3.02
+THA,Thailand,2019,F,3.04
+VUT,Vanuatu,2019,M,3.12
+ARE,United Arab Emirates,2019,M,3.08
+GRC,Greece,2019,F,3.12
+NOR,Norway,2019,F,3.09
+CHL,Chile,2019,F,3.09
+TUR,TÃ¼rkiye,2019,M,3.21
+RWA,Rwanda,2019,M,3.18
+CAF,Central African Republic,2019,M,3.2
+MWI,Malawi,2019,A,3.24
+HND,Honduras,2019,A,3.17
+NIU,Niue,2019,F,3.16
+SLV,El Salvador,2019,A,3.28
+ECU,Ecuador,2019,A,3.26
+BEN,Benin,2019,F,3.27
+GRD,Grenada,2019,F,3.31
+BRA,Brazil,2019,F,3.27
+BFA,Burkina Faso,2019,F,3.31
+COD,Democratic Republic of the Congo,2019,M,3.41
+ETH,Ethiopia,2019,A,3.36
+FJI,Fiji,2019,A,3.45
+KHM,Cambodia,2019,F,3.43
+MNG,Mongolia,2019,F,3.35
+SRB,Serbia,2019,F,3.35
+CYP,Cyprus,2019,F,3.43
+AZE,Azerbaijan,2019,M,3.51
+FSM,Micronesia (Federated States of),2019,M,3.53
+MOZ,Mozambique,2019,M,3.48
+MMR,Myanmar,2019,M,3.5
+HTI,Haiti,2019,A,3.45
+CRI,Costa Rica,2019,A,3.45
+PER,Peru,2019,F,3.46
+ITA,Italy,2019,F,3.54
+TUN,Tunisia,2019,M,3.61
+ZWE,Zimbabwe,2019,A,3.63
+JAM,Jamaica,2019,A,3.6
+LBR,Liberia,2019,A,3.64
+ATG,Antigua and Barbuda,2019,F,3.63
+TZA,United Republic of Tanzania,2019,F,3.59
+KOR,Republic of Korea,2019,F,3.63
+TCD,Chad,2019,A,3.73
+HRV,Croatia,2019,F,3.68
+ARG,Argentina,2019,F,3.71
+ISL,Iceland,2019,F,3.7
+VNM,Viet Nam,2019,F,3.78
+MLT,Malta,2019,F,3.79
+UKR,Ukraine,2019,F,3.82
+WSM,Samoa,2019,M,3.93
+ZMB,Zambia,2019,A,3.85
+LCA,Saint Lucia,2019,F,3.94
+BRB,Barbados,2019,F,3.91
+COK,Cook Islands,2019,F,4.02
+BOL,Bolivia (Plurinational State of),2019,A,4.1
+BDI,Burundi,2019,A,4.13
+GNB,Guinea-Bissau,2019,A,4.14
+CMR,Cameroon,2019,F,4.14
+FIN,Finland,2019,F,4.14
+NGA,Nigeria,2019,A,4.21
+NIC,Nicaragua,2019,A,4.17
+RUS,Russian Federation,2019,F,4.17
+SWE,Sweden,2019,F,4.18
+NLD,Netherlands (Kingdom of the),2019,F,4.23
+PRK,Democratic People's Republic of Korea,2019,A,4.29
+MLI,Mali,2019,A,4.35
+DNK,Denmark,2019,F,4.29
+USA,United States of America,2019,F,4.29
+CAN,Canada,2019,F,4.34
+MNE,Montenegro,2019,F,4.31
+BHS,Bahamas,2019,A,4.39
+GHA,Ghana,2019,A,4.55
+UZB,Uzbekistan,2019,M,4.54
+LSO,Lesotho,2019,A,4.54
+KAZ,Kazakhstan,2019,A,4.52
+CIV,Cote d'Ivoire,2019,M,4.61
+MKD,North Macedonia,2019,A,4.62
+SVK,Slovakia,2019,F,4.61
+HUN,Hungary,2019,F,4.68
+SYC,Seychelles,2019,F,4.72
+BEL,Belgium,2019,F,4.65
+NZL,New Zealand,2019,F,4.66
+SVN,Slovenia,2019,F,4.69
+AUS,Australia,2019,F,4.74
+KEN,Kenya,2019,M,4.78
+ISR,Israel,2019,M,4.78
+NRU,Nauru,2019,M,4.82
+LKA,Sri Lanka,2019,M,4.83
+LAO,Lao People's Democratic Republic,2019,F,4.85
+CHE,Switzerland,2019,F,4.77
+PRT,Portugal,2019,F,4.81
+IND,India,2019,A,4.92
+COL,Colombia,2019,A,4.92
+UGA,Uganda,2019,F,4.88
+BGR,Bulgaria,2019,F,4.91
+BLR,Belarus,2019,F,4.89
+GBR,United Kingdom of Great Britain and Northern Ireland,2019,F,4.94
+ESP,Spain,2019,F,4.92
+VEN,Venezuela (Bolivarian Republic of),2019,M,4.95
+ARM,Armenia,2019,A,4.98
+STP,Sao Tome and Principe,2019,A,5.01
+KGZ,Kyrgyzstan,2019,A,4.95
+AND,Andorra,2019,F,5
+TKM,Turkmenistan,2019,M,5.12
+ECU,Ecuador,2019,M,5.05
+HND,Honduras,2019,M,5.1
+ALB,Albania,2019,A,5.11
+EST,Estonia,2019,F,5.11
+MDA,Republic of Moldova,2019,F,5.09
+FRA,France,2019,F,5.14
+POL,Poland,2019,F,5.15
+GUY,Guyana,2019,A,5.35
+LUX,Luxembourg,2019,F,5.44
+LTU,Lithuania,2019,F,5.39
+MWI,Malawi,2019,M,5.52
+URY,Uruguay,2019,A,5.45
+AUT,Austria,2019,F,5.46
+DEU,Germany,2019,F,5.49
+SLV,El Salvador,2019,M,5.56
+HTI,Haiti,2019,M,5.57
+CRI,Costa Rica,2019,M,5.62
+PRY,Paraguay,2019,A,5.6
+IRL,Ireland,2019,F,5.58
+ETH,Ethiopia,2019,M,5.71
+FJI,Fiji,2019,M,5.74
+MEX,Mexico,2019,A,5.72
+BLZ,Belize,2019,A,5.71
+CHN,China,2019,A,5.73
+JAM,Jamaica,2019,M,5.83
+CZE,Czechia,2019,F,5.84
+LBR,Liberia,2019,M,5.94
+NAM,Namibia,2019,A,5.93
+GEO,Georgia,2019,F,5.86
+CUB,Cuba,2019,A,6.01
+LVA,Latvia,2019,F,5.99
+DMA,Dominica,2019,A,6.1
+TTO,Trinidad and Tobago,2019,A,6.06
+PHL,Philippines,2019,A,6.18
+AGO,Angola,2019,A,6.17
+TCD,Chad,2019,M,6.3
+KNA,Saint Kitts and Nevis,2019,A,6.34
+BOL,Bolivia (Plurinational State of),2019,M,6.3
+ZMB,Zambia,2019,M,6.34
+CPV,Cabo Verde,2019,A,6.27
+BIH,Bosnia and Herzegovina,2019,A,6.38
+COG,Congo,2019,A,6.4
+ZWE,Zimbabwe,2019,M,6.52
+PAN,Panama,2019,A,6.6
+SUR,Suriname,2019,A,6.63
+JPN,Japan,2019,A,6.68
+CHL,Chile,2019,A,6.75
+BDI,Burundi,2019,M,6.81
+NIC,Nicaragua,2019,M,6.84
+DOM,Dominican Republic,2019,A,6.76
+NOR,Norway,2019,A,6.8
+GNQ,Equatorial Guinea,2019,A,6.94
+NGA,Nigeria,2019,M,7.02
+PRK,Democratic People's Republic of Korea,2019,M,6.97
+GNB,Guinea-Bissau,2019,M,7.07
+GRC,Greece,2019,A,7.12
+BHS,Bahamas,2019,M,7.2
+VCT,Saint Vincent and the Grenadines,2019,A,7.16
+GAB,Gabon,2019,A,7.33
+GHA,Ghana,2019,M,7.41
+MLI,Mali,2019,M,7.42
+PER,Peru,2019,A,7.45
+MUS,Mauritius,2019,A,7.52
+ROU,Romania,2019,F,7.51
+MKD,North Macedonia,2019,M,7.66
+BRA,Brazil,2019,A,7.67
+LSO,Lesotho,2019,M,7.79
+THA,Thailand,2019,A,7.85
+STP,Sao Tome and Principe,2019,M,7.95
+MNG,Mongolia,2019,A,7.93
+SRB,Serbia,2019,A,7.89
+ITA,Italy,2019,A,7.97
+ARG,Argentina,2019,A,8.04
+IND,India,2019,M,8.1
+KAZ,Kazakhstan,2019,M,8.06
+COL,Colombia,2019,M,8.06
+GRD,Grenada,2019,A,8.06
+CYP,Cyprus,2019,A,8.05
+SWZ,Eswatini,2019,A,8.09
+ISL,Iceland,2019,A,8.07
+BWA,Botswana,2019,A,8.16
+KOR,Republic of Korea,2019,A,8.19
+BEN,Benin,2019,A,8.35
+ALB,Albania,2019,M,8.36
+ATG,Antigua and Barbuda,2019,A,8.51
+HRV,Croatia,2019,A,8.54
+KHM,Cambodia,2019,A,8.48
+MLT,Malta,2019,A,8.52
+ARM,Armenia,2019,M,8.67
+KGZ,Kyrgyzstan,2019,M,8.7
+GUY,Guyana,2019,M,8.71
+URY,Uruguay,2019,M,8.71
+UKR,Ukraine,2019,A,8.7
+PRY,Paraguay,2019,M,8.85
+ZAF,South Africa,2019,A,8.77
+BLZ,Belize,2019,M,9.04
+CHN,China,2019,M,9.09
+FIN,Finland,2019,A,9.16
+VNM,Viet Nam,2019,A,9.34
+SWE,Sweden,2019,A,9.3
+NLD,Netherlands (Kingdom of the),2019,A,9.3
+NIU,Niue,2019,A,9.35
+MEX,Mexico,2019,M,9.38
+DNK,Denmark,2019,A,9.4
+LCA,Saint Lucia,2019,A,9.47
+BRB,Barbados,2019,A,9.47
+USA,United States of America,2019,A,9.57
+CUB,Cuba,2019,M,9.77
+DMA,Dominica,2019,M,9.76
+AGO,Angola,2019,M,9.82
+BFA,Burkina Faso,2019,A,9.81
+PHL,Philippines,2019,M,9.92
+TTO,Trinidad and Tobago,2019,M,9.86
+CAN,Canada,2019,A,9.9
+NZL,New Zealand,2019,A,9.89
+AFG,Afghanistan,2015,F,0.002
+BGD,Bangladesh,2015,F,0.001
+KWT,Kuwait,2015,A,0
+KWT,Kuwait,2015,F,0
+KWT,Kuwait,2015,M,0
+LBY,Libya,2015,F,0.002
+MRT,Mauritania,2015,A,0
+MRT,Mauritania,2015,F,0
+MRT,Mauritania,2015,M,0
+SAU,Saudi Arabia,2015,A,0
+SAU,Saudi Arabia,2015,F,0
+SAU,Saudi Arabia,2015,M,0
+SOM,Somalia,2015,A,0
+SOM,Somalia,2015,F,0
+SOM,Somalia,2015,M,0
+AFG,Afghanistan,2015,A,0.009
+BGD,Bangladesh,2015,A,0.005
+BGD,Bangladesh,2015,M,0.009
+IDN,Indonesia,2015,F,0.027
+PAK,Pakistan,2015,F,0.026
+SDN,Sudan,2015,F,0.048
+YEM,Yemen,2015,F,0.009
+AFG,Afghanistan,2015,M,0.015
+COM,Comoros,2015,F,0.046
+EGY,Egypt,2015,F,0.043
+LBY,Libya,2015,A,0.011
+NER,Niger,2015,F,0.047
+LBY,Libya,2015,M,0.019
+YEM,Yemen,2015,A,0.04
+IRN,Iran (Islamic Republic of),2015,F,0.092
+IRQ,Iraq,2015,F,0.059
+JOR,Jordan,2015,F,0.087
+SLE,Sierra Leone,2015,F,0.076
+SYR,Syrian Arab Republic,2015,F,0.063
+DZA,Algeria,2015,F,0.14
+BTN,Bhutan,2015,F,0.1
+DJI,Djibouti,2015,F,0.13
+MAR,Morocco,2015,F,0.097
+SEN,Senegal,2015,F,0.1
+GIN,Guinea,2015,F,0.14
+TON,Tonga,2015,F,0.12
+IDN,Indonesia,2015,A,0.11
+PAK,Pakistan,2015,A,0.096
+YEM,Yemen,2015,M,0.071
+BRN,Brunei Darussalam,2015,F,0.14
+MYS,Malaysia,2015,F,0.18
+OMN,Oman,2015,F,0.16
+TLS,Timor-Leste,2015,F,0.17
+SDN,Sudan,2015,A,0.19
+TJK,Tajikistan,2015,F,0.25
+EGY,Egypt,2015,A,0.18
+NER,Niger,2015,A,0.18
+COM,Comoros,2015,A,0.2
+KIR,Kiribati,2015,F,0.25
+IDN,Indonesia,2015,M,0.2
+IRQ,Iraq,2015,A,0.23
+PAK,Pakistan,2015,M,0.16
+MDV,Maldives,2015,F,0.26
+SLE,Sierra Leone,2015,A,0.31
+SDN,Sudan,2015,M,0.33
+SYR,Syrian Arab Republic,2015,A,0.29
+BTN,Bhutan,2015,A,0.32
+EGY,Egypt,2015,M,0.31
+NER,Niger,2015,M,0.31
+QAT,Qatar,2015,F,0.27
+JOR,Jordan,2015,A,0.37
+SEN,Senegal,2015,A,0.37
+IRN,Iran (Islamic Republic of),2015,A,0.44
+MAR,Morocco,2015,A,0.41
+TON,Tonga,2015,A,0.36
+COM,Comoros,2015,M,0.36
+IRQ,Iraq,2015,M,0.41
+BRN,Brunei Darussalam,2015,A,0.41
+MDG,Madagascar,2015,F,0.35
+SLB,Solomon Islands,2015,F,0.36
+AZE,Azerbaijan,2015,F,0.4
+BHR,Bahrain,2015,F,0.42
+ERI,Eritrea,2015,F,0.4
+LBN,Lebanon,2015,F,0.41
+NPL,Nepal,2015,F,0.43
+ARE,United Arab Emirates,2015,F,0.42
+GIN,Guinea,2015,A,0.5
+TLS,Timor-Leste,2015,A,0.47
+DJI,Djibouti,2015,A,0.53
+SLE,Sierra Leone,2015,M,0.54
+BTN,Bhutan,2015,M,0.51
+SYR,Syrian Arab Republic,2015,M,0.52
+RWA,Rwanda,2015,F,0.5
+TUR,TÃ¼rkiye,2015,F,0.47
+TUN,Tunisia,2015,F,0.49
+DZA,Algeria,2015,A,0.58
+JOR,Jordan,2015,M,0.62
+TON,Tonga,2015,M,0.62
+VUT,Vanuatu,2015,F,0.59
+MMR,Myanmar,2015,F,0.58
+TUV,Tuvalu,2015,F,0.6
+GTM,Guatemala,2015,F,0.64
+MOZ,Mozambique,2015,F,0.59
+PNG,Papua New Guinea,2015,F,0.59
+TGO,Togo,2015,F,0.64
+MYS,Malaysia,2015,A,0.65
+SEN,Senegal,2015,M,0.67
+MAR,Morocco,2015,M,0.72
+KIR,Kiribati,2015,A,0.71
+BRN,Brunei Darussalam,2015,M,0.66
+GMB,Gambia,2015,F,0.66
+FSM,Micronesia (Federated States of),2015,F,0.71
+WSM,Samoa,2015,F,0.73
+UZB,Uzbekistan,2015,F,0.71
+TLS,Timor-Leste,2015,M,0.77
+OMN,Oman,2015,A,0.81
+IRN,Iran (Islamic Republic of),2015,M,0.78
+ETH,Ethiopia,2015,F,0.77
+CAF,Central African Republic,2015,F,0.77
+SGP,Singapore,2015,F,0.81
+GIN,Guinea,2015,M,0.88
+DJI,Djibouti,2015,M,0.95
+TJK,Tajikistan,2015,A,0.89
+CIV,Cote d'Ivoire,2015,F,0.86
+TKM,Turkmenistan,2015,F,0.93
+DZA,Algeria,2015,M,1.01
+MDG,Madagascar,2015,A,1.01
+COD,Democratic Republic of the Congo,2015,F,1
+KEN,Kenya,2015,F,0.98
+FJI,Fiji,2015,F,1.02
+LSO,Lesotho,2015,F,1.02
+LKA,Sri Lanka,2015,F,1.04
+NRU,Nauru,2015,F,1.05
+MYS,Malaysia,2015,M,1.11
+OMN,Oman,2015,M,1.11
+SLB,Solomon Islands,2015,A,1.07
+HND,Honduras,2015,F,1.09
+KIR,Kiribati,2015,M,1.22
+NPL,Nepal,2015,A,1.22
+QAT,Qatar,2015,A,1.17
+MWI,Malawi,2015,F,1.21
+SLV,El Salvador,2015,F,1.16
+ERI,Eritrea,2015,A,1.32
+ISR,Israel,2015,F,1.25
+MLI,Mali,2015,F,1.29
+CRI,Costa Rica,2015,F,1.32
+KAZ,Kazakhstan,2015,F,1.33
+ZWE,Zimbabwe,2015,F,1.29
+HTI,Haiti,2015,F,1.31
+MDV,Maldives,2015,A,1.35
+AZE,Azerbaijan,2015,A,1.44
+QAT,Qatar,2015,M,1.41
+RWA,Rwanda,2015,A,1.37
+JAM,Jamaica,2015,F,1.36
+GNB,Guinea-Bissau,2015,F,1.36
+LBR,Liberia,2015,F,1.43
+NGA,Nigeria,2015,F,1.43
+ZMB,Zambia,2015,F,1.44
+TJK,Tajikistan,2015,M,1.54
+LBN,Lebanon,2015,A,1.53
+TCD,Chad,2015,F,1.49
+MKD,North Macedonia,2015,F,1.52
+MMR,Myanmar,2015,A,1.62
+GTM,Guatemala,2015,A,1.65
+BDI,Burundi,2015,F,1.57
+IND,India,2015,F,1.58
+NIC,Nicaragua,2015,F,1.63
+MDG,Madagascar,2015,M,1.67
+VUT,Vanuatu,2015,A,1.69
+PNG,Papua New Guinea,2015,A,1.73
+TGO,Togo,2015,A,1.72
+SLB,Solomon Islands,2015,M,1.76
+MOZ,Mozambique,2015,A,1.76
+ECU,Ecuador,2015,F,1.77
+PRK,Democratic People's Republic of Korea,2015,F,1.8
+BHS,Bahamas,2015,F,1.85
+BHR,Bahrain,2015,A,1.89
+SGP,Singapore,2015,A,1.91
+TUR,TÃ¼rkiye,2015,A,1.9
+TUV,Tuvalu,2015,A,1.86
+CAF,Central African Republic,2015,A,1.94
+ALB,Albania,2015,F,1.85
+KGZ,Kyrgyzstan,2015,F,1.89
+BLZ,Belize,2015,M,10.01
+DMA,Dominica,2015,M,10.06
+BIH,Bosnia and Herzegovina,2015,M,10.06
+TTO,Trinidad and Tobago,2015,M,10.13
+SVK,Slovakia,2015,A,10.32
+NAM,Namibia,2015,M,10.37
+DOM,Dominican Republic,2015,M,10.39
+AUS,Australia,2015,A,10.39
+COK,Cook Islands,2015,A,10.48
+NOR,Norway,2015,M,10.54
+PRT,Portugal,2015,A,10.54
+GBR,United Kingdom of Great Britain and Northern Ireland,2015,A,10.52
+PAN,Panama,2015,M,10.6
+CMR,Cameroon,2015,A,10.72
+HUN,Hungary,2015,A,10.68
+CHE,Switzerland,2015,A,10.69
+JPN,Japan,2015,M,10.79
+KGZ,Kyrgyzstan,2015,M,10.78
+AND,Andorra,2015,A,10.76
+VCT,Saint Vincent and the Grenadines,2015,M,11.01
+BLR,Belarus,2015,A,11.04
+BEL,Belgium,2015,A,11.24
+MDA,Republic of Moldova,2015,A,11.35
+LAO,Lao People's Democratic Republic,2015,A,11.31
+BGR,Bulgaria,2015,A,11.44
+KHM,Cambodia,2015,M,11.5
+POL,Poland,2015,A,11.46
+CHN,China,2015,M,11.6
+TZA,United Republic of Tanzania,2015,A,11.65
+LVA,Latvia,2015,A,11.61
+RUS,Russian Federation,2015,A,11.64
+SVN,Slovenia,2015,A,11.58
+PER,Peru,2015,M,11.73
+FRA,France,2015,A,11.73
+IRL,Ireland,2015,A,11.71
+LUX,Luxembourg,2015,A,11.71
+MLT,Malta,2015,M,11.93
+GRC,Greece,2015,M,11.89
+BWA,Botswana,2015,M,12.01
+SYC,Seychelles,2015,A,12.03
+ISL,Iceland,2015,M,12.06
+CHL,Chile,2015,M,12.06
+DEU,Germany,2015,A,12.15
+ATG,Antigua and Barbuda,2015,M,12.2
+MUS,Mauritius,2015,M,12.24
+AUT,Austria,2015,A,12.19
+GRD,Grenada,2015,M,12.34
+ITA,Italy,2015,M,12.3
+AGO,Angola,2015,M,12.3
+CYP,Cyprus,2015,M,12.8
+SRB,Serbia,2015,M,12.85
+BEN,Benin,2015,M,13.14
+SWZ,Eswatini,2015,M,13.1
+BRA,Brazil,2015,M,13.13
+GNQ,Equatorial Guinea,2015,M,13.07
+CZE,Czechia,2015,A,13.22
+KOR,Republic of Korea,2015,M,13.29
+UGA,Uganda,2015,A,13.28
+ARG,Argentina,2015,M,13.39
+GAB,Gabon,2015,M,13.39
+THA,Thailand,2015,M,13.48
+LCA,Saint Lucia,2015,M,13.79
+HRV,Croatia,2015,M,13.9
+GEO,Georgia,2015,A,13.95
+LTU,Lithuania,2015,A,14.17
+VNM,Viet Nam,2015,M,14.46
+SWE,Sweden,2015,M,14.68
+NLD,Netherlands (Kingdom of the),2015,M,14.67
+FIN,Finland,2015,M,14.84
+USA,United States of America,2015,M,14.92
+DNK,Denmark,2015,M,15
+EST,Estonia,2015,A,15.06
+NIU,Niue,2015,M,15.09
+NZL,New Zealand,2015,M,15.12
+BRB,Barbados,2015,M,15.21
+ZAF,South Africa,2015,M,15.34
+MNG,Mongolia,2015,M,15.36
+CAN,Canada,2015,M,15.64
+MNE,Montenegro,2015,M,15.59
+ESP,Spain,2015,M,15.72
+AUS,Australia,2015,M,16.07
+UKR,Ukraine,2015,M,16.25
+BFA,Burkina Faso,2015,M,16.36
+SVK,Slovakia,2015,M,16.47
+AND,Andorra,2015,M,16.54
+GBR,United Kingdom of Great Britain and Northern Ireland,2015,M,16.5
+CHE,Switzerland,2015,M,16.68
+ROU,Romania,2015,A,16.85
+PRT,Portugal,2015,M,17.02
+CMR,Cameroon,2015,M,17.16
+HUN,Hungary,2015,M,17.38
+COK,Cook Islands,2015,M,17.57
+BEL,Belgium,2015,M,17.69
+LAO,Lao People's Democratic Republic,2015,M,17.8
+LUX,Luxembourg,2015,M,17.92
+IRL,Ireland,2015,M,18.12
+MDA,Republic of Moldova,2015,M,18.41
+POL,Poland,2015,M,18.4
+BLR,Belarus,2015,M,18.38
+SVN,Slovenia,2015,M,18.37
+SYC,Seychelles,2015,M,18.54
+FRA,France,2015,M,18.73
+BGR,Bulgaria,2015,M,18.74
+DEU,Germany,2015,M,19.14
+AUT,Austria,2015,M,19.2
+LVA,Latvia,2015,M,19.3
+TZA,United Republic of Tanzania,2015,M,19.78
+TUN,Tunisia,2015,A,2.03
+GHA,Ghana,2015,F,1.96
+BOL,Bolivia (Plurinational State of),2015,F,2
+COL,Colombia,2015,F,1.96
+NAM,Namibia,2015,F,2.05
+MDV,Maldives,2015,M,2.12
+NPL,Nepal,2015,M,2.14
+GMB,Gambia,2015,A,2.07
+FSM,Micronesia (Federated States of),2015,A,2.09
+MEX,Mexico,2015,F,2.07
+BIH,Bosnia and Herzegovina,2015,F,2.08
+WSM,Samoa,2015,A,2.18
+ARM,Armenia,2015,F,2.16
+SUR,Suriname,2015,F,2.16
+ERI,Eritrea,2015,M,2.31
+RWA,Rwanda,2015,M,2.34
+PRY,Paraguay,2015,F,2.3
+PHL,Philippines,2015,F,2.27
+CUB,Cuba,2015,F,2.29
+COD,Democratic Republic of the Congo,2015,A,2.44
+ARE,United Arab Emirates,2015,A,2.37
+GUY,Guyana,2015,F,2.36
+COG,Congo,2015,F,2.41
+CPV,Cabo Verde,2015,F,2.44
+BWA,Botswana,2015,F,2.43
+VEN,Venezuela (Bolivarian Republic of),2015,F,2.42
+ETH,Ethiopia,2015,A,2.52
+UZB,Uzbekistan,2015,A,2.55
+DMA,Dominica,2015,F,2.52
+TTO,Trinidad and Tobago,2015,F,2.51
+STP,Sao Tome and Principe,2015,F,2.52
+AZE,Azerbaijan,2015,M,2.57
+CIV,Cote d'Ivoire,2015,A,2.57
+KNA,Saint Kitts and Nevis,2015,F,2.55
+PAN,Panama,2015,F,2.63
+BHR,Bahrain,2015,M,2.7
+MMR,Myanmar,2015,M,2.68
+LBN,Lebanon,2015,M,2.7
+GTM,Guatemala,2015,M,2.7
+BLZ,Belize,2015,F,2.67
+SWZ,Eswatini,2015,F,2.65
+MUS,Mauritius,2015,F,2.7
+DOM,Dominican Republic,2015,F,2.73
+VUT,Vanuatu,2015,M,2.81
+PNG,Papua New Guinea,2015,M,2.79
+TGO,Togo,2015,M,2.81
+KEN,Kenya,2015,A,2.78
+KHM,Cambodia,2015,F,2.84
+URY,Uruguay,2015,F,2.76
+VCT,Saint Vincent and the Grenadines,2015,F,2.79
+SGP,Singapore,2015,M,2.91
+HND,Honduras,2015,A,2.85
+LKA,Sri Lanka,2015,A,2.86
+SLV,El Salvador,2015,A,2.89
+ISR,Israel,2015,A,2.94
+NRU,Nauru,2015,A,2.94
+JPN,Japan,2015,F,2.92
+RUS,Russian Federation,2015,M,20
+CZE,Czechia,2015,M,21
+UGA,Uganda,2015,M,21.67
+LTU,Lithuania,2015,M,23.29
+GEO,Georgia,2015,M,23.58
+EST,Estonia,2015,M,24.66
+ROU,Romania,2015,M,27.07
+MOZ,Mozambique,2015,M,3.03
+ARE,United Arab Emirates,2015,M,3.04
+CHN,China,2015,F,2.99
+ZAF,South Africa,2015,F,3.01
+TUV,Tuvalu,2015,M,3.07
+CAF,Central African Republic,2015,M,3.12
+FJI,Fiji,2015,A,3.06
+NOR,Norway,2015,F,3.1
+NIU,Niue,2015,F,3.05
+ATG,Antigua and Barbuda,2015,F,3.15
+HTI,Haiti,2015,A,3.22
+TKM,Turkmenistan,2015,A,3.2
+BEN,Benin,2015,F,3.18
+GRD,Grenada,2015,F,3.18
+THA,Thailand,2015,F,3.19
+TUR,TÃ¼rkiye,2015,M,3.34
+LSO,Lesotho,2015,A,3.28
+GRC,Greece,2015,F,3.28
+BFA,Burkina Faso,2015,F,3.27
+SRB,Serbia,2015,F,3.34
+MWI,Malawi,2015,A,3.37
+JAM,Jamaica,2015,A,3.39
+MLT,Malta,2015,F,3.44
+ITA,Italy,2015,F,3.41
+FSM,Micronesia (Federated States of),2015,M,3.47
+GMB,Gambia,2015,M,3.54
+CRI,Costa Rica,2015,A,3.5
+PER,Peru,2015,F,3.51
+AGO,Angola,2015,F,3.45
+CYP,Cyprus,2015,F,3.46
+BRA,Brazil,2015,F,3.51
+GAB,Gabon,2015,F,3.51
+TUN,Tunisia,2015,M,3.63
+WSM,Samoa,2015,M,3.58
+LBR,Liberia,2015,A,3.63
+VNM,Viet Nam,2015,F,3.59
+LCA,Saint Lucia,2015,F,3.59
+CHL,Chile,2015,F,3.57
+ISL,Iceland,2015,F,3.62
+GNQ,Equatorial Guinea,2015,F,3.61
+ZMB,Zambia,2015,A,3.73
+ZWE,Zimbabwe,2015,A,3.75
+HRV,Croatia,2015,F,3.71
+ECU,Ecuador,2015,A,3.85
+BRB,Barbados,2015,F,3.81
+KOR,Republic of Korea,2015,F,3.8
+COD,Democratic Republic of the Congo,2015,M,3.93
+GNB,Guinea-Bissau,2015,A,3.99
+COK,Cook Islands,2015,F,3.97
+ARG,Argentina,2015,F,3.97
+TZA,United Republic of Tanzania,2015,F,4.03
+MNE,Montenegro,2015,F,3.96
+NIC,Nicaragua,2015,A,4.11
+MNG,Mongolia,2015,F,4.15
+CIV,Cote d'Ivoire,2015,M,4.23
+BDI,Burundi,2015,A,4.19
+KAZ,Kazakhstan,2015,A,4.17
+NLD,Netherlands (Kingdom of the),2015,F,4.25
+ETH,Ethiopia,2015,M,4.28
+BOL,Bolivia (Plurinational State of),2015,A,4.31
+MKD,North Macedonia,2015,A,4.3
+SWE,Sweden,2015,F,4.25
+UKR,Ukraine,2015,F,4.32
+FIN,Finland,2015,F,4.27
+USA,United States of America,2015,F,4.25
+CAN,Canada,2015,F,4.35
+BHS,Bahamas,2015,A,4.36
+UZB,Uzbekistan,2015,M,4.43
+NGA,Nigeria,2015,A,4.39
+PRK,Democratic People's Republic of Korea,2015,A,4.45
+CMR,Cameroon,2015,F,4.42
+DNK,Denmark,2015,F,4.37
+ESP,Spain,2015,F,4.46
+TCD,Chad,2015,A,4.58
+HND,Honduras,2015,M,4.59
+KEN,Kenya,2015,M,4.64
+MLI,Mali,2015,A,4.59
+NZL,New Zealand,2015,F,4.58
+SVK,Slovakia,2015,F,4.58
+ISR,Israel,2015,M,4.69
+HUN,Hungary,2015,F,4.72
+RUS,Russian Federation,2015,F,4.69
+BGR,Bulgaria,2015,F,4.71
+NRU,Nauru,2015,M,4.81
+LAO,Lao People's Democratic Republic,2015,F,4.76
+SYC,Seychelles,2015,F,4.76
+PRT,Portugal,2015,F,4.84
+GBR,United Kingdom of Great Britain and Northern Ireland,2015,F,4.8
+LKA,Sri Lanka,2015,M,4.87
+SLV,El Salvador,2015,M,4.89
+AND,Andorra,2015,F,4.9
+AUS,Australia,2015,F,4.87
+CHE,Switzerland,2015,F,4.91
+GHA,Ghana,2015,A,5.01
+IND,India,2015,A,4.96
+ARM,Armenia,2015,A,4.98
+COL,Colombia,2015,A,5.02
+ALB,Albania,2015,A,5.04
+BLR,Belarus,2015,F,4.97
+SVN,Slovenia,2015,F,4.97
+FJI,Fiji,2015,M,5.08
+MDA,Republic of Moldova,2015,F,5.12
+POL,Poland,2015,F,5.09
+BEL,Belgium,2015,F,5.09
+HTI,Haiti,2015,M,5.2
+MEX,Mexico,2015,A,5.15
+LVA,Latvia,2015,F,5.34
+FRA,France,2015,F,5.33
+PRY,Paraguay,2015,A,5.41
+UGA,Uganda,2015,F,5.35
+JAM,Jamaica,2015,M,5.48
+LUX,Luxembourg,2015,F,5.53
+DEU,Germany,2015,F,5.45
+IRL,Ireland,2015,F,5.55
+TKM,Turkmenistan,2015,M,5.6
+AUT,Austria,2015,F,5.56
+LSO,Lesotho,2015,M,5.65
+CRI,Costa Rica,2015,M,5.69
+COG,Congo,2015,A,5.67
+SUR,Suriname,2015,A,5.68
+GUY,Guyana,2015,A,5.75
+GEO,Georgia,2015,F,5.74
+MWI,Malawi,2015,M,5.76
+CPV,Cabo Verde,2015,A,5.82
+CZE,Czechia,2015,F,5.81
+LBR,Liberia,2015,M,5.92
+CUB,Cuba,2015,A,5.85
+PHL,Philippines,2015,A,5.85
+STP,Sao Tome and Principe,2015,A,5.93
+ECU,Ecuador,2015,M,5.96
+BIH,Bosnia and Herzegovina,2015,A,5.95
+NAM,Namibia,2015,A,6.01
+URY,Uruguay,2015,A,6.02
+KNA,Saint Kitts and Nevis,2015,A,6.12
+ZMB,Zambia,2015,M,6.14
+VEN,Venezuela (Bolivarian Republic of),2015,A,6.05
+TTO,Trinidad and Tobago,2015,A,6.23
+KGZ,Kyrgyzstan,2015,A,6.17
+DMA,Dominica,2015,A,6.31
+BLZ,Belize,2015,A,6.34
+BOL,Bolivia (Plurinational State of),2015,M,6.62
+DOM,Dominican Republic,2015,A,6.57
+PAN,Panama,2015,A,6.59
+LTU,Lithuania,2015,F,6.56
+ZWE,Zimbabwe,2015,M,6.74
+NIC,Nicaragua,2015,M,6.74
+JPN,Japan,2015,A,6.72
+GNB,Guinea-Bissau,2015,M,6.82
+NOR,Norway,2015,A,6.83
+BDI,Burundi,2015,M,6.9
+EST,Estonia,2015,F,6.89
+VCT,Saint Vincent and the Grenadines,2015,A,7.01
+BHS,Bahamas,2015,M,7.13
+MKD,North Macedonia,2015,M,7.13
+KHM,Cambodia,2015,A,7.06
+BWA,Botswana,2015,A,7.08
+NGA,Nigeria,2015,M,7.32
+PRK,Democratic People's Republic of Korea,2015,M,7.26
+CHN,China,2015,A,7.35
+ATG,Antigua and Barbuda,2015,A,7.39
+KAZ,Kazakhstan,2015,M,7.44
+MUS,Mauritius,2015,A,7.4
+ROU,Romania,2015,F,7.44
+GRC,Greece,2015,A,7.48
+PER,Peru,2015,A,7.55
+TCD,Chad,2015,M,7.71
+MLT,Malta,2015,A,7.72
+SWZ,Eswatini,2015,A,7.73
+ITA,Italy,2015,A,7.68
+MLI,Mali,2015,M,7.83
+GRD,Grenada,2015,A,7.77
+AGO,Angola,2015,A,7.76
+SRB,Serbia,2015,A,7.84
+CHL,Chile,2015,A,7.75
+ISL,Iceland,2015,A,7.85
+GHA,Ghana,2015,M,8.13
+BEN,Benin,2015,A,8.1
+CYP,Cyprus,2015,A,8.12
+IND,India,2015,M,8.16
+COL,Colombia,2015,M,8.22
+ALB,Albania,2015,M,8.25
+THA,Thailand,2015,A,8.16
+BRA,Brazil,2015,A,8.2
+MEX,Mexico,2015,M,8.46
+PRY,Paraguay,2015,M,8.54
+KOR,Republic of Korea,2015,A,8.52
+ARM,Armenia,2015,M,8.59
+HRV,Croatia,2015,A,8.59
+LCA,Saint Lucia,2015,A,8.63
+ARG,Argentina,2015,A,8.57
+GAB,Gabon,2015,A,8.6
+GNQ,Equatorial Guinea,2015,A,8.71
+VNM,Viet Nam,2015,A,8.85
+ZAF,South Africa,2015,A,8.88
+COG,Congo,2015,M,8.99
+NIU,Niue,2015,A,9.08
+SUR,Suriname,2015,M,9.23
+BRB,Barbados,2015,A,9.18
+CPV,Cabo Verde,2015,M,9.29
+GUY,Guyana,2015,M,9.34
+PHL,Philippines,2015,M,9.42
+STP,Sao Tome and Principe,2015,M,9.37
+SWE,Sweden,2015,A,9.45
+FIN,Finland,2015,A,9.43
+NLD,Netherlands (Kingdom of the),2015,A,9.38
+CUB,Cuba,2015,M,9.49
+USA,United States of America,2015,A,9.49
+URY,Uruguay,2015,M,9.63
+DNK,Denmark,2015,A,9.61
+MNE,Montenegro,2015,A,9.55
+UKR,Ukraine,2015,A,9.73
+BFA,Burkina Faso,2015,A,9.66
+MNG,Mongolia,2015,A,9.66
+NZL,New Zealand,2015,A,9.69
+VEN,Venezuela (Bolivarian Republic of),2015,M,9.81
+KNA,Saint Kitts and Nevis,2015,M,9.88
+CAN,Canada,2015,A,9.92
+ESP,Spain,2015,A,9.94
+AFG,Afghanistan,2010,F,0.003
+BGD,Bangladesh,2010,F,0.0009
+KWT,Kuwait,2010,A,0
+KWT,Kuwait,2010,F,0
+KWT,Kuwait,2010,M,0
+LBY,Libya,2010,F,0.002
+MRT,Mauritania,2010,A,0
+MRT,Mauritania,2010,F,0
+MRT,Mauritania,2010,M,0
+SAU,Saudi Arabia,2010,A,0
+SAU,Saudi Arabia,2010,F,0
+SAU,Saudi Arabia,2010,M,0
+SOM,Somalia,2010,A,0
+SOM,Somalia,2010,F,0
+SOM,Somalia,2010,M,0
+SDN,Sudan,2010,F,0.012
+AFG,Afghanistan,2010,A,0.012
+BGD,Bangladesh,2010,A,0.004
+BGD,Bangladesh,2010,M,0.007
+IDN,Indonesia,2010,F,0.026
+LBY,Libya,2010,A,0.007
+PAK,Pakistan,2010,F,0.021
+YEM,Yemen,2010,F,0.014
+AFG,Afghanistan,2010,M,0.022
+COM,Comoros,2010,F,0.045
+EGY,Egypt,2010,F,0.049
+LBY,Libya,2010,M,0.012
+NER,Niger,2010,F,0.043
+SDN,Sudan,2010,A,0.045
+IRQ,Iraq,2010,F,0.062
+SLE,Sierra Leone,2010,F,0.078
+DZA,Algeria,2010,F,0.11
+GIN,Guinea,2010,F,0.088
+JOR,Jordan,2010,F,0.12
+MAR,Morocco,2010,F,0.12
+SEN,Senegal,2010,F,0.11
+SDN,Sudan,2010,M,0.079
+TLS,Timor-Leste,2010,F,0.11
+YEM,Yemen,2010,A,0.058
+IDN,Indonesia,2010,A,0.1
+PAK,Pakistan,2010,A,0.079
+BRN,Brunei Darussalam,2010,F,0.1
+YEM,Yemen,2010,M,0.1
+PAK,Pakistan,2010,M,0.13
+DJI,Djibouti,2010,F,0.17
+MYS,Malaysia,2010,F,0.16
+OMN,Oman,2010,F,0.2
+TJK,Tajikistan,2010,F,0.19
+IRN,Iran (Islamic Republic of),2010,F,0.24
+SYR,Syrian Arab Republic,2010,F,0.22
+BTN,Bhutan,2010,F,0.22
+NER,Niger,2010,A,0.17
+COM,Comoros,2010,A,0.2
+EGY,Egypt,2010,A,0.2
+KIR,Kiribati,2010,F,0.23
+IDN,Indonesia,2010,M,0.18
+IRQ,Iraq,2010,A,0.24
+MDV,Maldives,2010,F,0.34
+QAT,Qatar,2010,F,0.29
+TLS,Timor-Leste,2010,A,0.3
+GIN,Guinea,2010,A,0.31
+SLE,Sierra Leone,2010,A,0.31
+NER,Niger,2010,M,0.29
+BRN,Brunei Darussalam,2010,A,0.28
+COM,Comoros,2010,M,0.35
+NPL,Nepal,2010,F,0.32
+ARE,United Arab Emirates,2010,F,0.34
+TON,Tonga,2010,F,0.4
+DZA,Algeria,2010,A,0.44
+SEN,Senegal,2010,A,0.41
+EGY,Egypt,2010,M,0.35
+IRQ,Iraq,2010,M,0.43
+BRN,Brunei Darussalam,2010,M,0.45
+MMR,Myanmar,2010,F,0.39
+ERI,Eritrea,2010,F,0.44
+MDG,Madagascar,2010,F,0.37
+MOZ,Mozambique,2010,F,0.41
+SLB,Solomon Islands,2010,F,0.38
+TUN,Tunisia,2010,F,0.41
+JOR,Jordan,2010,A,0.48
+MAR,Morocco,2010,A,0.5
+TLS,Timor-Leste,2010,M,0.48
+PNG,Papua New Guinea,2010,F,0.47
+RWA,Rwanda,2010,F,0.46
+TUR,TÃ¼rkiye,2010,F,0.52
+AZE,Azerbaijan,2010,F,0.52
+ETH,Ethiopia,2010,F,0.5
+UZB,Uzbekistan,2010,F,0.5
+LBN,Lebanon,2010,F,0.49
+TUV,Tuvalu,2010,F,0.51
+BHR,Bahrain,2010,F,0.53
+MYS,Malaysia,2010,A,0.6
+GIN,Guinea,2010,M,0.55
+SLE,Sierra Leone,2010,M,0.55
+VUT,Vanuatu,2010,F,0.58
+TJK,Tajikistan,2010,A,0.69
+BTN,Bhutan,2010,A,0.68
+KIR,Kiribati,2010,A,0.65
+SEN,Senegal,2010,M,0.74
+DJI,Djibouti,2010,A,0.69
+TGO,Togo,2010,F,0.67
+DZA,Algeria,2010,M,0.76
+JOR,Jordan,2010,M,0.82
+GTM,Guatemala,2010,F,0.8
+SGP,Singapore,2010,F,0.82
+TKM,Turkmenistan,2010,F,0.78
+MAR,Morocco,2010,M,0.89
+OMN,Oman,2010,A,0.88
+FSM,Micronesia (Federated States of),2010,F,0.86
+WSM,Samoa,2010,F,0.87
+KEN,Kenya,2010,F,0.89
+LKA,Sri Lanka,2010,F,0.94
+FJI,Fiji,2010,F,0.94
+MYS,Malaysia,2010,M,1.01
+SYR,Syrian Arab Republic,2010,A,0.99
+NPL,Nepal,2010,A,0.95
+CIV,Cote d'Ivoire,2010,F,0.95
+CAF,Central African Republic,2010,F,0.98
+MLI,Mali,2010,F,0.96
+BTN,Bhutan,2010,M,1.07
+KIR,Kiribati,2010,M,1.12
+IRN,Iran (Islamic Republic of),2010,A,1.12
+MDG,Madagascar,2010,A,1.06
+SLB,Solomon Islands,2010,A,1.12
+MMR,Myanmar,2010,A,1.1
+SLV,El Salvador,2010,F,1.09
+GMB,Gambia,2010,F,1.06
+LSO,Lesotho,2010,F,1.08
+ZWE,Zimbabwe,2010,F,1.13
+TJK,Tajikistan,2010,M,1.2
+TON,Tonga,2010,A,1.18
+DJI,Djibouti,2010,M,1.23
+QAT,Qatar,2010,A,1.17
+MOZ,Mozambique,2010,A,1.23
+RWA,Rwanda,2010,A,1.25
+TCD,Chad,2010,F,1.24
+JAM,Jamaica,2010,F,1.23
+HND,Honduras,2010,F,1.21
+OMN,Oman,2010,M,1.29
+COD,Democratic Republic of the Congo,2010,F,1.27
+MWI,Malawi,2010,F,1.28
+HTI,Haiti,2010,F,1.28
+ZMB,Zambia,2010,F,1.28
+GNB,Guinea-Bissau,2010,F,1.34
+ISR,Israel,2010,F,1.35
+QAT,Qatar,2010,M,1.4
+PNG,Papua New Guinea,2010,A,1.4
+ERI,Eritrea,2010,A,1.45
+KAZ,Kazakhstan,2010,F,1.35
+IND,India,2010,F,1.47
+NRU,Nauru,2010,F,1.51
+NIC,Nicaragua,2010,F,1.49
+CRI,Costa Rica,2010,F,1.52
+LBR,Liberia,2010,F,1.54
+MDV,Maldives,2010,A,1.56
+NPL,Nepal,2010,M,1.65
+TUV,Tuvalu,2010,A,1.59
+MKD,North Macedonia,2010,F,1.55
+VUT,Vanuatu,2010,A,1.67
+TUN,Tunisia,2010,A,1.66
+ETH,Ethiopia,2010,A,1.67
+NAM,Namibia,2010,F,1.67
+NGA,Nigeria,2010,F,1.69
+BHS,Bahamas,2010,F,1.83
+SYR,Syrian Arab Republic,2010,M,1.76
+MDG,Madagascar,2010,M,1.76
+AZE,Azerbaijan,2010,A,1.81
+MMR,Myanmar,2010,M,1.81
+SLB,Solomon Islands,2010,M,1.83
+UZB,Uzbekistan,2010,A,1.79
+LBN,Lebanon,2010,A,1.82
+TGO,Togo,2010,A,1.79
+PRK,Democratic People's Republic of Korea,2010,F,1.79
+SGP,Singapore,2010,A,1.92
+KHM,Cambodia,2010,F,1.87
+ECU,Ecuador,2010,F,1.91
+PRY,Paraguay,2010,M,10.01
+BDI,Burundi,2010,M,10.09
+URY,Uruguay,2010,M,10.1
+CAN,Canada,2010,A,10.21
+NLD,Netherlands (Kingdom of the),2010,A,10.2
+NZL,New Zealand,2010,A,10.28
+KNA,Saint Kitts and Nevis,2010,M,10.38
+DMA,Dominica,2010,M,10.41
+LAO,Lao People's Democratic Republic,2010,A,10.42
+DNK,Denmark,2010,A,10.39
+MNE,Montenegro,2010,A,10.4
+VCT,Saint Vincent and the Grenadines,2010,M,10.45
+PAN,Panama,2010,M,10.48
+SVK,Slovakia,2010,A,10.54
+BGR,Bulgaria,2010,A,10.66
+FIN,Finland,2010,A,10.74
+BEN,Benin,2010,M,10.78
+MLT,Malta,2010,M,10.82
+DOM,Dominican Republic,2010,M,10.77
+HUN,Hungary,2010,A,10.84
+AND,Andorra,2010,A,10.78
+JPN,Japan,2010,M,10.86
+LVA,Latvia,2010,A,10.99
+NIU,Niue,2010,M,10.99
+GBR,United Kingdom of Great Britain and Northern Ireland,2010,A,10.95
+KGZ,Kyrgyzstan,2010,M,11.14
+SVN,Slovenia,2010,A,11.14
+AUS,Australia,2010,A,11.1
+POL,Poland,2010,A,11.3
+BEL,Belgium,2010,A,11.33
+CHE,Switzerland,2010,A,11.32
+MDA,Republic of Moldova,2010,A,11.43
+PRT,Portugal,2010,A,11.4
+ISL,Iceland,2010,M,11.49
+NOR,Norway,2010,M,11.52
+ITA,Italy,2010,M,11.57
+PER,Peru,2010,M,11.65
+UKR,Ukraine,2010,A,11.66
+TZA,United Republic of Tanzania,2010,A,11.92
+VNM,Viet Nam,2010,M,12.04
+GRD,Grenada,2010,M,11.96
+ARG,Argentina,2010,M,12.02
+CHL,Chile,2010,M,12.11
+LUX,Luxembourg,2010,A,12.13
+SYC,Seychelles,2010,M,12.15
+SWZ,Eswatini,2010,M,12.24
+AUT,Austria,2010,A,12.23
+IRL,Ireland,2010,A,12.21
+MNG,Mongolia,2010,M,12.28
+FRA,France,2010,A,12.25
+DEU,Germany,2010,A,12.41
+CMR,Cameroon,2010,A,12.55
+THA,Thailand,2010,M,12.46
+VEN,Venezuela (Bolivarian Republic of),2010,M,12.49
+MUS,Mauritius,2010,M,12.65
+BWA,Botswana,2010,M,12.67
+AGO,Angola,2010,M,13.19
+CZE,Czechia,2010,A,13.33
+BRB,Barbados,2010,M,13.73
+BFA,Burkina Faso,2010,M,13.78
+GRC,Greece,2010,M,13.76
+BRA,Brazil,2010,M,13.77
+GNQ,Equatorial Guinea,2010,M,13.84
+RUS,Russian Federation,2010,A,13.76
+GAB,Gabon,2010,M,13.94
+COK,Cook Islands,2010,M,14.04
+UGA,Uganda,2010,A,14
+LTU,Lithuania,2010,A,14.05
+EST,Estonia,2010,A,14.23
+CYP,Cyprus,2010,M,14.26
+KOR,Republic of Korea,2010,M,14.63
+USA,United States of America,2010,M,14.74
+GEO,Georgia,2010,A,14.84
+ESP,Spain,2010,M,14.92
+ZAF,South Africa,2010,M,15.04
+BLR,Belarus,2010,A,14.99
+LCA,Saint Lucia,2010,M,15.27
+SWE,Sweden,2010,M,15.27
+HRV,Croatia,2010,M,15.36
+NLD,Netherlands (Kingdom of the),2010,M,15.96
+CAN,Canada,2010,M,16.12
+NZL,New Zealand,2010,M,16.07
+DNK,Denmark,2010,M,16.24
+SRB,Serbia,2010,M,16.16
+LAO,Lao People's Democratic Republic,2010,M,16.42
+AND,Andorra,2010,M,16.46
+SVK,Slovakia,2010,M,16.81
+MNE,Montenegro,2010,M,16.92
+FIN,Finland,2010,M,16.9
+AUS,Australia,2010,M,17.14
+GBR,United Kingdom of Great Britain and Northern Ireland,2010,M,17.23
+BGR,Bulgaria,2010,M,17.43
+ROU,Romania,2010,A,17.62
+HUN,Hungary,2010,M,17.66
+SVN,Slovenia,2010,M,17.71
+CHE,Switzerland,2010,M,17.72
+BEL,Belgium,2010,M,17.9
+POL,Poland,2010,M,18.1
+LVA,Latvia,2010,M,18.25
+PRT,Portugal,2010,M,18.29
+MDA,Republic of Moldova,2010,M,18.48
+LUX,Luxembourg,2010,M,18.71
+IRL,Ireland,2010,M,18.88
+UKR,Ukraine,2010,M,19.4
+AUT,Austria,2010,M,19.36
+FRA,France,2010,M,19.55
+DEU,Germany,2010,M,19.66
+IRN,Iran (Islamic Republic of),2010,M,1.98
+TON,Tonga,2010,M,1.98
+ARE,United Arab Emirates,2010,A,1.96
+GTM,Guatemala,2010,A,2.04
+COG,Congo,2010,F,1.97
+BIH,Bosnia and Herzegovina,2010,F,2.02
+COL,Colombia,2010,F,1.99
+KGZ,Kyrgyzstan,2010,F,1.99
+MOZ,Mozambique,2010,M,2.13
+RWA,Rwanda,2010,M,2.13
+TUR,TÃ¼rkiye,2010,A,2.12
+MEX,Mexico,2010,F,2.11
+GHA,Ghana,2010,F,2.17
+BOL,Bolivia (Plurinational State of),2010,F,2.17
+CUB,Cuba,2010,F,2.16
+SUR,Suriname,2010,F,2.16
+ARM,Armenia,2010,F,2.2
+PNG,Papua New Guinea,2010,M,2.26
+BHR,Bahrain,2010,A,2.35
+ALB,Albania,2010,F,2.26
+NIU,Niue,2010,F,2.28
+GUY,Guyana,2010,F,2.34
+BDI,Burundi,2010,F,2.42
+CPV,Cabo Verde,2010,F,2.38
+CHN,China,2010,F,2.39
+PHL,Philippines,2010,F,2.39
+MDV,Maldives,2010,M,2.52
+ERI,Eritrea,2010,M,2.53
+ARE,United Arab Emirates,2010,M,2.48
+CAF,Central African Republic,2010,A,2.45
+FSM,Micronesia (Federated States of),2010,A,2.5
+ATG,Antigua and Barbuda,2010,F,2.46
+KEN,Kenya,2010,A,2.51
+SWZ,Eswatini,2010,F,2.52
+STP,Sao Tome and Principe,2010,F,2.55
+TTO,Trinidad and Tobago,2010,F,2.53
+TUV,Tuvalu,2010,M,2.64
+WSM,Samoa,2010,A,2.59
+LKA,Sri Lanka,2010,A,2.6
+BLZ,Belize,2010,F,2.59
+BEN,Benin,2010,F,2.59
+DMA,Dominica,2010,F,2.59
+BWA,Botswana,2010,F,2.61
+PAN,Panama,2010,F,2.57
+TKM,Turkmenistan,2010,A,2.66
+KNA,Saint Kitts and Nevis,2010,F,2.7
+SLV,El Salvador,2010,A,2.71
+BFA,Burkina Faso,2010,F,2.73
+VCT,Saint Vincent and the Grenadines,2010,F,2.66
+PRY,Paraguay,2010,F,2.74
+VUT,Vanuatu,2010,M,2.77
+ETH,Ethiopia,2010,M,2.84
+FJI,Fiji,2010,A,2.85
+CIV,Cote d'Ivoire,2010,A,2.82
+DOM,Dominican Republic,2010,F,2.84
+MUS,Mauritius,2010,F,2.81
+SGP,Singapore,2010,M,2.94
+TGO,Togo,2010,M,2.93
+URY,Uruguay,2010,F,2.9
+JPN,Japan,2010,F,2.94
+CMR,Cameroon,2010,M,20.03
+TZA,United Republic of Tanzania,2010,M,20.26
+CZE,Czechia,2010,M,21.15
+UGA,Uganda,2010,M,22.88
+LTU,Lithuania,2010,M,23.12
+EST,Estonia,2010,M,23.3
+RUS,Russian Federation,2010,M,23.53
+BLR,Belarus,2010,M,24.78
+GEO,Georgia,2010,M,25.03
+ROU,Romania,2010,M,28.25
+TUN,Tunisia,2010,M,2.95
+JAM,Jamaica,2010,A,3.04
+VNM,Viet Nam,2010,F,2.98
+THA,Thailand,2010,F,2.96
+SYC,Seychelles,2010,F,3.05
+ZAF,South Africa,2010,F,3.02
+UZB,Uzbekistan,2010,M,3.11
+COD,Democratic Republic of the Congo,2010,A,3.06
+HTI,Haiti,2010,A,3.14
+HND,Honduras,2010,A,3.13
+MLT,Malta,2010,F,3.08
+GRD,Grenada,2010,F,3.09
+VEN,Venezuela (Bolivarian Republic of),2010,F,3.15
+AZE,Azerbaijan,2010,M,3.23
+LBN,Lebanon,2010,M,3.19
+GMB,Gambia,2010,A,3.17
+ISR,Israel,2010,A,3.16
+COK,Cook Islands,2010,F,3.17
+ITA,Italy,2010,F,3.22
+BHR,Bahrain,2010,M,3.33
+GTM,Guatemala,2010,M,3.34
+ZWE,Zimbabwe,2010,A,3.31
+ZMB,Zambia,2010,A,3.31
+MNG,Mongolia,2010,F,3.34
+LSO,Lesotho,2010,A,3.39
+MLI,Mali,2010,A,3.4
+BRB,Barbados,2010,F,3.44
+NOR,Norway,2010,F,3.39
+ISL,Iceland,2010,F,3.43
+PER,Peru,2010,F,3.52
+MWI,Malawi,2010,A,3.57
+ARG,Argentina,2010,F,3.57
+CHL,Chile,2010,F,3.61
+TUR,TÃ¼rkiye,2010,M,3.74
+NIC,Nicaragua,2010,A,3.75
+GAB,Gabon,2010,F,3.71
+AGO,Angola,2010,F,3.72
+BRA,Brazil,2010,F,3.74
+TCD,Chad,2010,A,3.86
+CAF,Central African Republic,2010,M,3.93
+GNB,Guinea-Bissau,2010,A,3.88
+LBR,Liberia,2010,A,3.9
+GRC,Greece,2010,F,3.86
+GNQ,Equatorial Guinea,2010,F,3.93
+CRI,Costa Rica,2010,A,4
+CYP,Cyprus,2010,F,3.99
+LCA,Saint Lucia,2010,F,4.04
+FSM,Micronesia (Federated States of),2010,M,4.12
+ECU,Ecuador,2010,A,4.12
+HRV,Croatia,2010,F,4.13
+TZA,United Republic of Tanzania,2010,F,4.08
+WSM,Samoa,2010,M,4.23
+KEN,Kenya,2010,M,4.18
+NRU,Nauru,2010,A,4.16
+KAZ,Kazakhstan,2010,A,4.2
+USA,United States of America,2010,F,4.2
+KOR,Republic of Korea,2010,F,4.23
+BHS,Bahamas,2010,A,4.33
+MKD,North Macedonia,2010,A,4.32
+ESP,Spain,2010,F,4.26
+SRB,Serbia,2010,F,4.3
+LKA,Sri Lanka,2010,M,4.41
+PRK,Democratic People's Republic of Korea,2010,A,4.43
+LAO,Lao People's Democratic Republic,2010,F,4.4
+SWE,Sweden,2010,F,4.42
+MNE,Montenegro,2010,F,4.36
+BGR,Bulgaria,2010,F,4.43
+CAN,Canada,2010,F,4.49
+CIV,Cote d'Ivoire,2010,M,4.63
+SLV,El Salvador,2010,M,4.6
+IND,India,2010,A,4.62
+NLD,Netherlands (Kingdom of the),2010,F,4.62
+FJI,Fiji,2010,M,4.71
+TKM,Turkmenistan,2010,M,4.65
+KHM,Cambodia,2010,A,4.71
+BOL,Bolivia (Plurinational State of),2010,A,4.66
+COG,Congo,2010,A,4.65
+DNK,Denmark,2010,F,4.72
+SVK,Slovakia,2010,F,4.72
+HUN,Hungary,2010,F,4.82
+SVN,Slovenia,2010,F,4.81
+COD,Democratic Republic of the Congo,2010,M,4.92
+JAM,Jamaica,2010,M,4.92
+NZL,New Zealand,2010,F,4.87
+FIN,Finland,2010,F,4.89
+AND,Andorra,2010,F,4.94
+HTI,Haiti,2010,M,5.05
+HND,Honduras,2010,M,5.03
+NAM,Namibia,2010,A,4.96
+GBR,United Kingdom of Great Britain and Northern Ireland,2010,F,5.01
+ISR,Israel,2010,M,5.06
+NGA,Nigeria,2010,A,5.06
+ARM,Armenia,2010,A,5.06
+COL,Colombia,2010,A,5.07
+LVA,Latvia,2010,F,5.12
+POL,Poland,2010,F,5.05
+BEL,Belgium,2010,F,5.13
+MEX,Mexico,2010,A,5.23
+CMR,Cameroon,2010,F,5.24
+MDA,Republic of Moldova,2010,F,5.23
+PRT,Portugal,2010,F,5.24
+CHE,Switzerland,2010,F,5.2
+AUS,Australia,2010,F,5.2
+UKR,Ukraine,2010,F,5.26
+GMB,Gambia,2010,M,5.4
+GHA,Ghana,2010,A,5.45
+ZMB,Zambia,2010,M,5.47
+CUB,Cuba,2010,A,5.5
+CPV,Cabo Verde,2010,A,5.63
+FRA,France,2010,F,5.57
+RUS,Russian Federation,2010,F,5.65
+AUT,Austria,2010,F,5.58
+DEU,Germany,2010,F,5.57
+ATG,Antigua and Barbuda,2010,A,5.74
+BIH,Bosnia and Herzegovina,2010,A,5.74
+SUR,Suriname,2010,A,5.7
+UGA,Uganda,2010,F,5.66
+LUX,Luxembourg,2010,F,5.71
+IRL,Ireland,2010,F,5.75
+LSO,Lesotho,2010,M,5.85
+MLI,Mali,2010,M,5.81
+GUY,Guyana,2010,A,5.77
+ALB,Albania,2010,A,5.9
+CHN,China,2010,A,5.9
+STP,Sao Tome and Principe,2010,A,5.92
+CZE,Czechia,2010,F,5.91
+ZWE,Zimbabwe,2010,M,5.97
+MWI,Malawi,2010,M,6.11
+NIC,Nicaragua,2010,M,6.14
+BLZ,Belize,2010,A,6.13
+PHL,Philippines,2010,A,6.12
+BDI,Burundi,2010,A,6.17
+TTO,Trinidad and Tobago,2010,A,6.15
+GEO,Georgia,2010,F,6.21
+URY,Uruguay,2010,A,6.31
+LBR,Liberia,2010,M,6.38
+ECU,Ecuador,2010,M,6.37
+PRY,Paraguay,2010,A,6.37
+KGZ,Kyrgyzstan,2010,A,6.39
+TCD,Chad,2010,M,6.52
+KNA,Saint Kitts and Nevis,2010,A,6.47
+CRI,Costa Rica,2010,M,6.48
+PAN,Panama,2010,A,6.51
+GNB,Guinea-Bissau,2010,M,6.65
+DMA,Dominica,2010,A,6.55
+BEN,Benin,2010,A,6.61
+EST,Estonia,2010,F,6.59
+LTU,Lithuania,2010,F,6.6
+VCT,Saint Vincent and the Grenadines,2010,A,6.66
+NIU,Niue,2010,A,6.73
+NRU,Nauru,2010,M,6.75
+DOM,Dominican Republic,2010,A,6.84
+JPN,Japan,2010,A,6.77
+BLR,Belarus,2010,F,6.82
+MLT,Malta,2010,A,6.91
+BHS,Bahamas,2010,M,7.04
+MKD,North Macedonia,2010,M,7.14
+BOL,Bolivia (Plurinational State of),2010,M,7.14
+SWZ,Eswatini,2010,A,7.15
+ITA,Italy,2010,A,7.22
+PRK,Democratic People's Republic of Korea,2010,M,7.26
+VNM,Viet Nam,2010,A,7.37
+COG,Congo,2010,M,7.38
+NOR,Norway,2010,A,7.43
+KAZ,Kazakhstan,2010,M,7.48
+PER,Peru,2010,A,7.54
+ISL,Iceland,2010,A,7.47
+BWA,Botswana,2010,A,7.47
+IND,India,2010,M,7.59
+GRD,Grenada,2010,A,7.55
+THA,Thailand,2010,A,7.57
+KHM,Cambodia,2010,M,7.69
+MUS,Mauritius,2010,A,7.67
+ARG,Argentina,2010,A,7.69
+VEN,Venezuela (Bolivarian Republic of),2010,A,7.75
+SYC,Seychelles,2010,A,7.77
+CHL,Chile,2010,A,7.79
+MNG,Mongolia,2010,A,7.76
+ROU,Romania,2010,F,7.82
+BFA,Burkina Faso,2010,A,8.11
+COL,Colombia,2010,M,8.29
+BRB,Barbados,2010,A,8.27
+AGO,Angola,2010,A,8.32
+NGA,Nigeria,2010,M,8.42
+COK,Cook Islands,2010,A,8.49
+MEX,Mexico,2010,M,8.59
+NAM,Namibia,2010,M,8.57
+ARM,Armenia,2010,M,8.62
+BRA,Brazil,2010,A,8.63
+GRC,Greece,2010,A,8.72
+ZAF,South Africa,2010,A,8.68
+GHA,Ghana,2010,M,8.83
+CUB,Cuba,2010,M,8.89
+GAB,Gabon,2010,A,8.91
+CPV,Cabo Verde,2010,M,8.97
+CYP,Cyprus,2010,A,9.12
+SUR,Suriname,2010,M,9.23
+GNQ,Equatorial Guinea,2010,A,9.16
+CHN,China,2010,M,9.33
+STP,Sao Tome and Principe,2010,M,9.34
+GUY,Guyana,2010,M,9.31
+USA,United States of America,2010,A,9.34
+KOR,Republic of Korea,2010,A,9.38
+ATG,Antigua and Barbuda,2010,M,9.53
+HRV,Croatia,2010,A,9.48
+ESP,Spain,2010,A,9.49
+ALB,Albania,2010,M,9.6
+LCA,Saint Lucia,2010,A,9.6
+BLZ,Belize,2010,M,9.69
+BIH,Bosnia and Herzegovina,2010,M,9.71
+SWE,Sweden,2010,A,9.79
+PHL,Philippines,2010,M,9.86
+TTO,Trinidad and Tobago,2010,M,9.93
+SRB,Serbia,2010,A,9.93
+AFG,Afghanistan,2005,F,0.006
+BGD,Bangladesh,2005,F,0.0006
+KWT,Kuwait,2005,A,0
+KWT,Kuwait,2005,F,0
+KWT,Kuwait,2005,M,0
+MRT,Mauritania,2005,A,0
+MRT,Mauritania,2005,F,0
+MRT,Mauritania,2005,M,0
+SAU,Saudi Arabia,2005,A,0
+SAU,Saudi Arabia,2005,F,0
+SAU,Saudi Arabia,2005,M,0
+SOM,Somalia,2005,A,0
+SOM,Somalia,2005,F,0
+SOM,Somalia,2005,M,0
+SDN,Sudan,2005,A,0
+SDN,Sudan,2005,F,0
+SDN,Sudan,2005,M,0
+BGD,Bangladesh,2005,A,0.002
+BGD,Bangladesh,2005,M,0.004
+EGY,Egypt,2005,F,0.039
+IDN,Indonesia,2005,F,0.02
+IRN,Iran (Islamic Republic of),2005,F,0.019
+IRQ,Iraq,2005,F,0.037
+LBY,Libya,2005,F,0.006
+NER,Niger,2005,F,0.036
+PAK,Pakistan,2005,F,0.013
+YEM,Yemen,2005,F,0.017
+AFG,Afghanistan,2005,A,0.027
+LBY,Libya,2005,A,0.027
+AFG,Afghanistan,2005,M,0.048
+LBY,Libya,2005,M,0.048
+SLE,Sierra Leone,2005,F,0.058
+DZA,Algeria,2005,F,0.12
+BRN,Brunei Darussalam,2005,F,0.065
+COM,Comoros,2005,F,0.1
+GIN,Guinea,2005,F,0.1
+JOR,Jordan,2005,F,0.12
+MAR,Morocco,2005,F,0.12
+NPL,Nepal,2005,F,0.1
+PAK,Pakistan,2005,A,0.05
+SEN,Senegal,2005,F,0.13
+TLS,Timor-Leste,2005,F,0.11
+IDN,Indonesia,2005,A,0.082
+YEM,Yemen,2005,A,0.072
+IRN,Iran (Islamic Republic of),2005,A,0.085
+IRQ,Iraq,2005,A,0.14
+NER,Niger,2005,A,0.14
+PAK,Pakistan,2005,M,0.085
+IDN,Indonesia,2005,M,0.14
+YEM,Yemen,2005,M,0.13
+IRN,Iran (Islamic Republic of),2005,M,0.15
+DJI,Djibouti,2005,F,0.17
+MYS,Malaysia,2005,F,0.16
+MLI,Mali,2005,F,0.21
+OMN,Oman,2005,F,0.24
+TJK,Tajikistan,2005,F,0.22
+EGY,Egypt,2005,A,0.16
+SLE,Sierra Leone,2005,A,0.22
+BRN,Brunei Darussalam,2005,A,0.18
+NER,Niger,2005,M,0.24
+SYR,Syrian Arab Republic,2005,F,0.25
+MMR,Myanmar,2005,F,0.25
+MDV,Maldives,2005,F,0.32
+TLS,Timor-Leste,2005,A,0.31
+NPL,Nepal,2005,A,0.31
+EGY,Egypt,2005,M,0.28
+IRQ,Iraq,2005,M,0.25
+BRN,Brunei Darussalam,2005,M,0.28
+ARE,United Arab Emirates,2005,F,0.32
+MDG,Madagascar,2005,F,0.33
+MOZ,Mozambique,2005,F,0.35
+QAT,Qatar,2005,F,0.32
+VUT,Vanuatu,2005,F,0.4
+GIN,Guinea,2005,A,0.36
+KIR,Kiribati,2005,F,0.39
+COM,Comoros,2005,A,0.43
+SLE,Sierra Leone,2005,M,0.4
+ERI,Eritrea,2005,F,0.38
+SLB,Solomon Islands,2005,F,0.35
+ETH,Ethiopia,2005,F,0.42
+TUN,Tunisia,2005,F,0.43
+DZA,Algeria,2005,A,0.47
+JOR,Jordan,2005,A,0.5
+MAR,Morocco,2005,A,0.48
+SEN,Senegal,2005,A,0.47
+TLS,Timor-Leste,2005,M,0.51
+NPL,Nepal,2005,M,0.53
+AZE,Azerbaijan,2005,F,0.52
+BHR,Bahrain,2005,F,0.54
+RWA,Rwanda,2005,F,0.53
+TUR,TÃ¼rkiye,2005,F,0.5
+LBN,Lebanon,2005,F,0.53
+MYS,Malaysia,2005,A,0.59
+GIN,Guinea,2005,M,0.64
+TON,Tonga,2005,F,0.56
+PNG,Papua New Guinea,2005,F,0.64
+TUV,Tuvalu,2005,F,0.61
+TGO,Togo,2005,F,0.64
+DJI,Djibouti,2005,A,0.67
+MMR,Myanmar,2005,A,0.71
+BTN,Bhutan,2005,F,0.67
+SGP,Singapore,2005,F,0.69
+LKA,Sri Lanka,2005,F,0.73
+IND,India,2005,F,0.73
+TJK,Tajikistan,2005,A,0.76
+DZA,Algeria,2005,M,0.82
+COM,Comoros,2005,M,0.78
+MAR,Morocco,2005,M,0.85
+SEN,Senegal,2005,M,0.84
+MLI,Mali,2005,A,0.77
+KEN,Kenya,2005,F,0.77
+TKM,Turkmenistan,2005,F,0.78
+JOR,Jordan,2005,M,0.85
+MDG,Madagascar,2005,A,0.94
+FJI,Fiji,2005,F,0.89
+FSM,Micronesia (Federated States of),2005,F,0.88
+BEN,Benin,2005,F,0.87
+GTM,Guatemala,2005,F,0.9
+CAF,Central African Republic,2005,F,0.91
+ZWE,Zimbabwe,2005,F,0.93
+MYS,Malaysia,2005,M,1
+TCD,Chad,2005,F,0.98
+MOZ,Mozambique,2005,A,1.05
+OMN,Oman,2005,A,1.04
+SLB,Solomon Islands,2005,A,1.04
+NRU,Nauru,2005,F,0.97
+KIR,Kiribati,2005,A,1.12
+SYR,Syrian Arab Republic,2005,A,1.11
+KHM,Cambodia,2005,F,1.1
+MWI,Malawi,2005,F,1.1
+VUT,Vanuatu,2005,A,1.17
+MMR,Myanmar,2005,M,1.17
+DJI,Djibouti,2005,M,1.19
+ERI,Eritrea,2005,A,1.25
+LSO,Lesotho,2005,F,1.17
+ISR,Israel,2005,F,1.21
+SLV,El Salvador,2005,F,1.25
+TJK,Tajikistan,2005,M,1.33
+MLI,Mali,2005,M,1.33
+QAT,Qatar,2005,A,1.3
+JAM,Jamaica,2005,F,1.28
+COG,Congo,2005,F,1.27
+GMB,Gambia,2005,F,1.31
+HND,Honduras,2005,F,1.33
+WSM,Samoa,2005,F,1.34
+ZMB,Zambia,2005,F,1.32
+UZB,Uzbekistan,2005,F,1.26
+MDV,Maldives,2005,A,1.37
+RWA,Rwanda,2005,A,1.4
+ETH,Ethiopia,2005,A,1.4
+CHN,China,2005,F,1.36
+MDG,Madagascar,2005,M,1.54
+CIV,Cote d'Ivoire,2005,F,1.48
+NAM,Namibia,2005,F,1.48
+TON,Tonga,2005,A,1.64
+OMN,Oman,2005,M,1.58
+SGP,Singapore,2005,A,1.62
+GNB,Guinea-Bissau,2005,F,1.59
+PRK,Democratic People's Republic of Korea,2005,F,1.64
+NIC,Nicaragua,2005,F,1.65
+SLB,Solomon Islands,2005,M,1.71
+QAT,Qatar,2005,M,1.66
+TUN,Tunisia,2005,A,1.71
+TGO,Togo,2005,A,1.69
+HTI,Haiti,2005,F,1.66
+LBR,Liberia,2005,F,1.73
+ECU,Ecuador,2005,F,1.75
+AZE,Azerbaijan,2005,A,1.81
+MOZ,Mozambique,2005,M,1.81
+ARE,United Arab Emirates,2005,A,1.77
+TUV,Tuvalu,2005,A,1.8
+BOL,Bolivia (Plurinational State of),2005,F,1.77
+CRI,Costa Rica,2005,F,1.75
+MKD,North Macedonia,2005,F,1.75
+VUT,Vanuatu,2005,M,1.94
+KIR,Kiribati,2005,M,1.91
+PNG,Papua New Guinea,2005,A,1.88
+LBN,Lebanon,2005,A,1.94
+VNM,Viet Nam,2005,F,1.91
+SUR,Suriname,2005,F,1.88
+MNG,Mongolia,2005,F,1.9
+MEX,Mexico,2005,M,10.13
+URY,Uruguay,2005,M,10.24
+NZL,New Zealand,2005,A,10.15
+UKR,Ukraine,2005,A,10.28
+COK,Cook Islands,2005,M,10.44
+BDI,Burundi,2005,M,10.43
+MLT,Malta,2005,M,10.61
+SVK,Slovakia,2005,A,10.62
+AGO,Angola,2005,M,10.66
+POL,Poland,2005,A,10.71
+NLD,Netherlands (Kingdom of the),2005,A,10.75
+BGR,Bulgaria,2005,A,10.68
+AUS,Australia,2005,A,10.82
+DOM,Dominican Republic,2005,M,10.94
+LVA,Latvia,2005,A,10.87
+FIN,Finland,2005,A,10.95
+BEL,Belgium,2005,A,11.25
+DNK,Denmark,2005,A,11.33
+NOR,Norway,2005,M,11.36
+STP,Sao Tome and Principe,2005,M,11.42
+CMR,Cameroon,2005,A,11.46
+TZA,United Republic of Tanzania,2005,A,11.53
+LCA,Saint Lucia,2005,A,11.54
+ISL,Iceland,2005,M,11.57
+CHL,Chile,2005,M,11.61
+CHE,Switzerland,2005,A,11.66
+KGZ,Kyrgyzstan,2005,M,11.75
+JPN,Japan,2005,M,11.84
+SVN,Slovenia,2005,A,11.81
+NIU,Niue,2005,M,11.94
+ESP,Spain,2005,A,11.95
+PRT,Portugal,2005,A,12.18
+GEO,Georgia,2005,A,12.26
+AND,Andorra,2005,A,12.26
+KNA,Saint Kitts and Nevis,2005,M,12.43
+LAO,Lao People's Democratic Republic,2005,M,12.43
+GBR,United Kingdom of Great Britain and Northern Ireland,2005,A,12.38
+GRD,Grenada,2005,M,12.57
+DMA,Dominica,2005,M,12.61
+HUN,Hungary,2005,A,12.58
+AUT,Austria,2005,A,12.61
+BWA,Botswana,2005,M,12.69
+LUX,Luxembourg,2005,A,12.75
+SYC,Seychelles,2005,M,12.78
+FRA,France,2005,A,12.81
+BLR,Belarus,2005,A,12.79
+BRB,Barbados,2005,M,12.92
+MUS,Mauritius,2005,M,12.93
+MDA,Republic of Moldova,2005,A,12.95
+DEU,Germany,2005,A,13.01
+NGA,Nigeria,2005,M,13.08
+KAZ,Kazakhstan,2005,M,13.06
+BRA,Brazil,2005,M,13.17
+ITA,Italy,2005,M,13.3
+LTU,Lithuania,2005,A,13.53
+VEN,Venezuela (Bolivarian Republic of),2005,M,13.54
+SWZ,Eswatini,2005,M,13.91
+GNQ,Equatorial Guinea,2005,M,13.87
+CZE,Czechia,2005,A,13.99
+GAB,Gabon,2005,M,13.99
+IRL,Ireland,2005,A,14.14
+BFA,Burkina Faso,2005,M,14.28
+GRC,Greece,2005,M,14.52
+RUS,Russian Federation,2005,A,14.5
+SWE,Sweden,2005,M,14.61
+USA,United States of America,2005,M,14.68
+KOR,Republic of Korea,2005,M,14.8
+ZAF,South Africa,2005,M,15.25
+THA,Thailand,2005,M,15.3
+EST,Estonia,2005,A,15.25
+CYP,Cyprus,2005,M,15.38
+CAN,Canada,2005,M,15.4
+HRV,Croatia,2005,M,15.36
+NZL,New Zealand,2005,M,15.87
+NLD,Netherlands (Kingdom of the),2005,M,16.84
+AUS,Australia,2005,M,16.76
+SVK,Slovakia,2005,M,16.93
+UKR,Ukraine,2005,M,17.07
+POL,Poland,2005,M,17.14
+UGA,Uganda,2005,A,17.16
+FIN,Finland,2005,M,17.29
+BGR,Bulgaria,2005,M,17.46
+DNK,Denmark,2005,M,17.77
+BEL,Belgium,2005,M,17.8
+LVA,Latvia,2005,M,17.99
+ROU,Romania,2005,A,18.32
+CMR,Cameroon,2005,M,18.37
+LCA,Saint Lucia,2005,M,18.36
+AND,Andorra,2005,M,18.4
+CHE,Switzerland,2005,M,18.38
+ESP,Spain,2005,M,18.76
+SVN,Slovenia,2005,M,18.83
+PRT,Portugal,2005,M,19.44
+TZA,United Republic of Tanzania,2005,M,19.46
+GBR,United Kingdom of Great Britain and Northern Ireland,2005,M,19.53
+LUX,Luxembourg,2005,M,19.79
+BHS,Bahamas,2005,F,2
+SYR,Syrian Arab Republic,2005,M,1.96
+BTN,Bhutan,2005,A,2.04
+GHA,Ghana,2005,F,2.05
+BIH,Bosnia and Herzegovina,2005,F,1.99
+ALB,Albania,2005,F,2.03
+TUR,TÃ¼rkiye,2005,A,2.06
+LKA,Sri Lanka,2005,A,2.06
+ARM,Armenia,2005,F,2.08
+COL,Colombia,2005,F,2.06
+PAN,Panama,2005,F,2.1
+VCT,Saint Vincent and the Grenadines,2005,F,2.15
+KGZ,Kyrgyzstan,2005,F,2.14
+ERI,Eritrea,2005,M,2.19
+KEN,Kenya,2005,A,2.15
+PHL,Philippines,2005,F,2.2
+CPV,Cabo Verde,2005,F,2.2
+BHR,Bahrain,2005,A,2.28
+ARE,United Arab Emirates,2005,M,2.3
+GTM,Guatemala,2005,A,2.27
+CAF,Central African Republic,2005,A,2.29
+COK,Cook Islands,2005,F,2.33
+CUB,Cuba,2005,F,2.28
+GUY,Guyana,2005,F,2.35
+MDV,Maldives,2005,M,2.36
+ETH,Ethiopia,2005,M,2.39
+RWA,Rwanda,2005,M,2.38
+BEN,Benin,2005,A,2.39
+IND,India,2005,A,2.39
+COD,Democratic Republic of the Congo,2005,F,2.37
+SGP,Singapore,2005,M,2.53
+FSM,Micronesia (Federated States of),2005,A,2.51
+BLZ,Belize,2005,F,2.51
+MEX,Mexico,2005,F,2.54
+KAZ,Kazakhstan,2005,F,2.51
+TTO,Trinidad and Tobago,2005,F,2.47
+BDI,Burundi,2005,F,2.55
+PRY,Paraguay,2005,F,2.52
+NIU,Niue,2005,F,2.52
+ATG,Antigua and Barbuda,2005,F,2.58
+BWA,Botswana,2005,F,2.63
+TON,Tonga,2005,M,2.73
+FJI,Fiji,2005,A,2.67
+ZWE,Zimbabwe,2005,A,2.75
+TKM,Turkmenistan,2005,A,2.66
+NGA,Nigeria,2005,F,2.73
+KHM,Cambodia,2005,A,2.81
+TGO,Togo,2005,M,2.76
+NRU,Nauru,2005,A,2.76
+ISR,Israel,2005,A,2.85
+ARG,Argentina,2005,F,2.85
+PER,Peru,2005,F,2.9
+BFA,Burkina Faso,2005,F,2.87
+DOM,Dominican Republic,2005,F,2.89
+MUS,Mauritius,2005,F,2.89
+SWZ,Eswatini,2005,F,2.92
+URY,Uruguay,2005,F,2.94
+AUT,Austria,2005,M,20.01
+FRA,France,2005,M,20.41
+HUN,Hungary,2005,M,20.48
+DEU,Germany,2005,M,20.69
+GEO,Georgia,2005,M,20.82
+MDA,Republic of Moldova,2005,M,20.9
+BLR,Belarus,2005,M,21.08
+IRL,Ireland,2005,M,21.76
+LTU,Lithuania,2005,M,22.17
+CZE,Czechia,2005,M,22.25
+RUS,Russian Federation,2005,M,24.79
+EST,Estonia,2005,M,24.94
+UGA,Uganda,2005,M,28.16
+ROU,Romania,2005,M,29.33
+TUN,Tunisia,2005,M,3.02
+PNG,Papua New Guinea,2005,M,3.02
+TUV,Tuvalu,2005,M,3.03
+COG,Congo,2005,A,3.03
+MLT,Malta,2005,F,3.03
+AGO,Angola,2005,F,2.96
+TCD,Chad,2005,A,3.08
+JAM,Jamaica,2005,A,3.13
+MWI,Malawi,2005,A,3.13
+SLV,El Salvador,2005,A,3.09
+ZAF,South Africa,2005,F,3.09
+AZE,Azerbaijan,2005,M,3.24
+BTN,Bhutan,2005,M,3.2
+SYC,Seychelles,2005,F,3.22
+BRB,Barbados,2005,F,3.25
+DMA,Dominica,2005,F,3.17
+STP,Sao Tome and Principe,2005,F,3.21
+BHR,Bahrain,2005,M,3.3
+KNA,Saint Kitts and Nevis,2005,F,3.28
+ZMB,Zambia,2005,A,3.33
+LAO,Lao People's Democratic Republic,2005,F,3.27
+GRD,Grenada,2005,F,3.27
+NOR,Norway,2005,F,3.3
+JPN,Japan,2005,F,3.25
+LBN,Lebanon,2005,M,3.4
+HND,Honduras,2005,A,3.39
+VEN,Venezuela (Bolivarian Republic of),2005,F,3.44
+LKA,Sri Lanka,2005,M,3.45
+CHN,China,2005,A,3.46
+ISL,Iceland,2005,F,3.45
+CHL,Chile,2005,F,3.47
+TUR,TÃ¼rkiye,2005,M,3.62
+KEN,Kenya,2005,M,3.58
+LSO,Lesotho,2005,A,3.65
+BRA,Brazil,2005,F,3.6
+GTM,Guatemala,2005,M,3.71
+CAF,Central African Republic,2005,M,3.67
+ITA,Italy,2005,F,3.72
+THA,Thailand,2005,F,3.74
+GMB,Gambia,2005,A,3.83
+BOL,Bolivia (Plurinational State of),2005,A,3.81
+ECU,Ecuador,2005,A,3.76
+GAB,Gabon,2005,F,3.78
+IND,India,2005,M,3.95
+WSM,Samoa,2005,A,3.88
+BEN,Benin,2005,M,3.98
+HTI,Haiti,2005,A,4.02
+TZA,United Republic of Tanzania,2005,F,3.98
+GNQ,Equatorial Guinea,2005,F,3.96
+FSM,Micronesia (Federated States of),2005,M,4.14
+PRK,Democratic People's Republic of Korea,2005,A,4.09
+HRV,Croatia,2005,F,4.14
+NIC,Nicaragua,2005,A,4.11
+GRC,Greece,2005,F,4.13
+SWE,Sweden,2005,F,4.17
+USA,United States of America,2005,F,4.17
+CIV,Cote d'Ivoire,2005,A,4.26
+LBR,Liberia,2005,A,4.32
+UZB,Uzbekistan,2005,A,4.34
+CAN,Canada,2005,F,4.28
+KOR,Republic of Korea,2005,F,4.33
+FJI,Fiji,2005,M,4.41
+GNB,Guinea-Bissau,2005,A,4.45
+CYP,Cyprus,2005,F,4.38
+NRU,Nauru,2005,M,4.48
+NAM,Namibia,2005,A,4.45
+MNG,Mongolia,2005,A,4.51
+CRI,Costa Rica,2005,A,4.54
+BGR,Bulgaria,2005,F,4.48
+KHM,Cambodia,2005,M,4.62
+ISR,Israel,2005,M,4.56
+BHS,Bahamas,2005,A,4.69
+TKM,Turkmenistan,2005,M,4.66
+UKR,Ukraine,2005,F,4.66
+VNM,Viet Nam,2005,A,4.81
+COG,Congo,2005,M,4.85
+MKD,North Macedonia,2005,A,4.76
+ARM,Armenia,2005,A,4.84
+CMR,Cameroon,2005,F,4.76
+POL,Poland,2005,F,4.79
+SVK,Slovakia,2005,F,4.78
+NZL,New Zealand,2005,F,4.8
+ZWE,Zimbabwe,2005,M,4.91
+LCA,Saint Lucia,2005,F,4.93
+NLD,Netherlands (Kingdom of the),2005,F,4.86
+SUR,Suriname,2005,A,4.97
+FIN,Finland,2005,F,4.98
+JAM,Jamaica,2005,M,5.06
+GHA,Ghana,2005,A,5.11
+CPV,Cabo Verde,2005,A,5.1
+LVA,Latvia,2005,F,5.11
+AUS,Australia,2005,F,5.05
+BEL,Belgium,2005,F,5.08
+DNK,Denmark,2005,F,5.12
+TCD,Chad,2005,M,5.24
+COL,Colombia,2005,A,5.23
+GEO,Georgia,2005,F,5.15
+SVN,Slovenia,2005,F,5.17
+SLV,El Salvador,2005,M,5.25
+ALB,Albania,2005,A,5.3
+CHE,Switzerland,2005,F,5.34
+MWI,Malawi,2005,M,5.37
+HND,Honduras,2005,M,5.44
+VCT,Saint Vincent and the Grenadines,2005,A,5.39
+PAN,Panama,2005,A,5.38
+ESP,Spain,2005,F,5.44
+CHN,China,2005,M,5.51
+ZMB,Zambia,2005,M,5.55
+COD,Democratic Republic of the Congo,2005,A,5.52
+BIH,Bosnia and Herzegovina,2005,A,5.59
+PHL,Philippines,2005,A,5.64
+AND,Andorra,2005,F,5.58
+PRT,Portugal,2005,F,5.62
+HUN,Hungary,2005,F,5.64
+GBR,United Kingdom of Great Britain and Northern Ireland,2005,F,5.68
+BOL,Bolivia (Plurinational State of),2005,M,5.84
+CUB,Cuba,2005,A,5.75
+ECU,Ecuador,2005,M,5.81
+GUY,Guyana,2005,A,5.82
+AUT,Austria,2005,F,5.75
+FRA,France,2005,F,5.84
+BLR,Belarus,2005,F,5.84
+DEU,Germany,2005,F,5.84
+BLZ,Belize,2005,A,5.93
+PRY,Paraguay,2005,A,5.88
+RUS,Russian Federation,2005,F,5.91
+ATG,Antigua and Barbuda,2005,A,5.95
+TTO,Trinidad and Tobago,2005,A,5.99
+MDA,Republic of Moldova,2005,F,6
+LUX,Luxembourg,2005,F,5.97
+PER,Peru,2005,A,6.18
+MEX,Mexico,2005,A,6.19
+ARG,Argentina,2005,A,6.17
+CZE,Czechia,2005,F,6.23
+WSM,Samoa,2005,M,6.27
+LSO,Lesotho,2005,M,6.31
+COK,Cook Islands,2005,A,6.4
+HTI,Haiti,2005,M,6.44
+BDI,Burundi,2005,A,6.39
+URY,Uruguay,2005,A,6.4
+LTU,Lithuania,2005,F,6.39
+GMB,Gambia,2005,M,6.51
+PRK,Democratic People's Republic of Korea,2005,M,6.73
+NIC,Nicaragua,2005,M,6.72
+AGO,Angola,2005,A,6.69
+KGZ,Kyrgyzstan,2005,A,6.74
+IRL,Ireland,2005,F,6.66
+MLT,Malta,2005,A,6.77
+UGA,Uganda,2005,F,6.93
+CIV,Cote d'Ivoire,2005,M,6.96
+DOM,Dominican Republic,2005,A,6.96
+LBR,Liberia,2005,M,7.08
+EST,Estonia,2005,F,7.13
+MNG,Mongolia,2005,M,7.18
+CRI,Costa Rica,2005,M,7.34
+NOR,Norway,2005,A,7.27
+STP,Sao Tome and Principe,2005,A,7.26
+NIU,Niue,2005,A,7.26
+BWA,Botswana,2005,A,7.44
+KAZ,Kazakhstan,2005,A,7.41
+JPN,Japan,2005,A,7.41
+UZB,Uzbekistan,2005,M,7.5
+ISL,Iceland,2005,A,7.52
+CHL,Chile,2005,A,7.47
+BHS,Bahamas,2005,M,7.59
+GNB,Guinea-Bissau,2005,M,7.58
+NAM,Namibia,2005,M,7.71
+KNA,Saint Kitts and Nevis,2005,A,7.79
+MKD,North Macedonia,2005,M,7.81
+LAO,Lao People's Democratic Republic,2005,A,7.82
+BRB,Barbados,2005,A,7.8
+VNM,Viet Nam,2005,M,7.92
+NGA,Nigeria,2005,A,7.91
+GRD,Grenada,2005,A,7.94
+DMA,Dominica,2005,A,7.91
+MUS,Mauritius,2005,A,7.86
+SUR,Suriname,2005,M,8.01
+SYC,Seychelles,2005,A,8.08
+SWZ,Eswatini,2005,A,8.09
+CPV,Cabo Verde,2005,M,8.18
+ARM,Armenia,2005,M,8.19
+ROU,Romania,2005,F,8.18
+GHA,Ghana,2005,M,8.27
+BRA,Brazil,2005,A,8.28
+ITA,Italy,2005,A,8.32
+BFA,Burkina Faso,2005,A,8.41
+VEN,Venezuela (Bolivarian Republic of),2005,A,8.43
+VCT,Saint Vincent and the Grenadines,2005,M,8.49
+COL,Colombia,2005,M,8.53
+PAN,Panama,2005,M,8.69
+ALB,Albania,2005,M,8.66
+ZAF,South Africa,2005,A,8.75
+COD,Democratic Republic of the Congo,2005,M,8.81
+GAB,Gabon,2005,A,8.89
+PHL,Philippines,2005,M,9.06
+GNQ,Equatorial Guinea,2005,A,9.11
+PRY,Paraguay,2005,M,9.24
+CUB,Cuba,2005,M,9.27
+BLZ,Belize,2005,M,9.35
+SWE,Sweden,2005,A,9.31
+GRC,Greece,2005,A,9.27
+USA,United States of America,2005,A,9.3
+BIH,Bosnia and Herzegovina,2005,M,9.45
+GUY,Guyana,2005,M,9.38
+THA,Thailand,2005,A,9.36
+PER,Peru,2005,M,9.51
+HRV,Croatia,2005,A,9.46
+KOR,Republic of Korea,2005,A,9.51
+TTO,Trinidad and Tobago,2005,M,9.65
+ARG,Argentina,2005,M,9.67
+CAN,Canada,2005,A,9.75
+ATG,Antigua and Barbuda,2005,M,9.9
+CYP,Cyprus,2005,A,9.88
+AFG,Afghanistan,2000,A,0.003
+AFG,Afghanistan,2000,F,0.0007
+BGD,Bangladesh,2000,F,0.0009
+IRN,Iran (Islamic Republic of),2000,F,0.005
+KWT,Kuwait,2000,A,0
+KWT,Kuwait,2000,F,0
+KWT,Kuwait,2000,M,0
+LBY,Libya,2000,F,0.002
+MRT,Mauritania,2000,A,0
+MRT,Mauritania,2000,F,0
+MRT,Mauritania,2000,M,0
+SAU,Saudi Arabia,2000,A,0
+SAU,Saudi Arabia,2000,F,0
+SAU,Saudi Arabia,2000,M,0
+SOM,Somalia,2000,A,0
+SOM,Somalia,2000,F,0
+SOM,Somalia,2000,M,0
+SDN,Sudan,2000,A,0
+SDN,Sudan,2000,F,0
+SDN,Sudan,2000,M,0
+AFG,Afghanistan,2000,M,0.005
+BGD,Bangladesh,2000,A,0.004
+BGD,Bangladesh,2000,M,0.006
+COM,Comoros,2000,F,0.037
+EGY,Egypt,2000,F,0.034
+IDN,Indonesia,2000,F,0.021
+LBY,Libya,2000,A,0.007
+NER,Niger,2000,F,0.036
+PAK,Pakistan,2000,F,0.009
+YEM,Yemen,2000,F,0.029
+IRN,Iran (Islamic Republic of),2000,A,0.021
+IRQ,Iraq,2000,F,0.049
+LBY,Libya,2000,M,0.012
+PAK,Pakistan,2000,A,0.033
+IRN,Iran (Islamic Republic of),2000,M,0.037
+DZA,Algeria,2000,F,0.075
+GIN,Guinea,2000,F,0.083
+NPL,Nepal,2000,F,0.064
+SLE,Sierra Leone,2000,F,0.059
+JOR,Jordan,2000,F,0.12
+MAR,Morocco,2000,F,0.12
+MMR,Myanmar,2000,F,0.13
+SEN,Senegal,2000,F,0.13
+BRN,Brunei Darussalam,2000,F,0.077
+IDN,Indonesia,2000,A,0.083
+PAK,Pakistan,2000,M,0.056
+EGY,Egypt,2000,A,0.14
+NER,Niger,2000,A,0.14
+YEM,Yemen,2000,A,0.12
+IDN,Indonesia,2000,M,0.15
+DJI,Djibouti,2000,F,0.16
+MYS,Malaysia,2000,F,0.17
+OMN,Oman,2000,F,0.19
+MLI,Mali,2000,F,0.22
+QAT,Qatar,2000,F,0.22
+TLS,Timor-Leste,2000,F,0.2
+COM,Comoros,2000,A,0.16
+IRQ,Iraq,2000,A,0.19
+NPL,Nepal,2000,A,0.2
+SLE,Sierra Leone,2000,A,0.22
+EGY,Egypt,2000,M,0.24
+NER,Niger,2000,M,0.24
+YEM,Yemen,2000,M,0.22
+BRN,Brunei Darussalam,2000,A,0.21
+SLB,Solomon Islands,2000,F,0.25
+TJK,Tajikistan,2000,F,0.26
+SYR,Syrian Arab Republic,2000,F,0.3
+DZA,Algeria,2000,A,0.3
+GIN,Guinea,2000,A,0.29
+COM,Comoros,2000,M,0.28
+IRQ,Iraq,2000,M,0.34
+NPL,Nepal,2000,M,0.33
+BRN,Brunei Darussalam,2000,M,0.33
+ERI,Eritrea,2000,F,0.3
+ARE,United Arab Emirates,2000,F,0.31
+MMR,Myanmar,2000,A,0.37
+VUT,Vanuatu,2000,F,0.44
+SLE,Sierra Leone,2000,M,0.4
+MOZ,Mozambique,2000,F,0.37
+ETH,Ethiopia,2000,F,0.36
+MDV,Maldives,2000,F,0.4
+TUN,Tunisia,2000,F,0.41
+TON,Tonga,2000,F,0.5
+JOR,Jordan,2000,A,0.49
+KIR,Kiribati,2000,F,0.52
+MAR,Morocco,2000,A,0.46
+SEN,Senegal,2000,A,0.47
+TLS,Timor-Leste,2000,A,0.55
+DZA,Algeria,2000,M,0.52
+GIN,Guinea,2000,M,0.52
+AZE,Azerbaijan,2000,F,0.45
+MDG,Madagascar,2000,F,0.52
+RWA,Rwanda,2000,F,0.55
+MMR,Myanmar,2000,M,0.62
+MYS,Malaysia,2000,A,0.62
+BHR,Bahrain,2000,F,0.63
+IND,India,2000,F,0.6
+LBN,Lebanon,2000,F,0.64
+TUR,TÃ¼rkiye,2000,F,0.61
+TGO,Togo,2000,F,0.56
+TUV,Tuvalu,2000,F,0.61
+DJI,Djibouti,2000,A,0.65
+KHM,Cambodia,2000,F,0.7
+LKA,Sri Lanka,2000,F,0.67
+PNG,Papua New Guinea,2000,F,0.74
+JOR,Jordan,2000,M,0.84
+MAR,Morocco,2000,M,0.82
+SEN,Senegal,2000,M,0.84
+TCD,Chad,2000,F,0.79
+SLB,Solomon Islands,2000,A,0.76
+MLI,Mali,2000,A,0.82
+OMN,Oman,2000,A,0.82
+KEN,Kenya,2000,F,0.77
+FJI,Fiji,2000,F,0.8
+TKM,Turkmenistan,2000,F,0.77
+TLS,Timor-Leste,2000,M,0.88
+TJK,Tajikistan,2000,A,0.9
+COK,Cook Islands,2000,F,0.88
+QAT,Qatar,2000,A,0.94
+BEN,Benin,2000,F,0.93
+CAF,Central African Republic,2000,F,0.93
+ERI,Eritrea,2000,A,1
+GTM,Guatemala,2000,F,0.95
+MWI,Malawi,2000,F,1.05
+SGP,Singapore,2000,F,0.96
+ZWE,Zimbabwe,2000,F,1.03
+UZB,Uzbekistan,2000,F,1.01
+MYS,Malaysia,2000,M,1.07
+MOZ,Mozambique,2000,A,1.09
+BTN,Bhutan,2000,F,1.09
+DJI,Djibouti,2000,M,1.16
+OMN,Oman,2000,M,1.23
+SLB,Solomon Islands,2000,M,1.23
+ETH,Ethiopia,2000,A,1.2
+QAT,Qatar,2000,M,1.22
+COG,Congo,2000,F,1.19
+MNG,Mongolia,2000,F,1.16
+HND,Honduras,2000,F,1.21
+LSO,Lesotho,2000,F,1.21
+FSM,Micronesia (Federated States of),2000,F,1.22
+VUT,Vanuatu,2000,A,1.27
+SYR,Syrian Arab Republic,2000,A,1.29
+VNM,Viet Nam,2000,F,1.29
+SLV,El Salvador,2000,F,1.27
+GMB,Gambia,2000,F,1.28
+ISR,Israel,2000,F,1.26
+MLI,Mali,2000,M,1.4
+RWA,Rwanda,2000,A,1.43
+JAM,Jamaica,2000,F,1.37
+CHN,China,2000,F,1.43
+WSM,Samoa,2000,F,1.4
+ZMB,Zambia,2000,F,1.43
+BOL,Bolivia (Plurinational State of),2000,F,1.45
+KIR,Kiribati,2000,A,1.47
+TON,Tonga,2000,A,1.46
+MDG,Madagascar,2000,A,1.46
+TGO,Togo,2000,A,1.5
+CIV,Cote d'Ivoire,2000,F,1.47
+GNB,Guinea-Bissau,2000,F,1.5
+ARM,Armenia,2000,F,1.55
+NAM,Namibia,2000,F,1.55
+TJK,Tajikistan,2000,M,1.58
+AZE,Azerbaijan,2000,A,1.57
+TUN,Tunisia,2000,A,1.63
+PRK,Democratic People's Republic of Korea,2000,F,1.56
+NIC,Nicaragua,2000,F,1.58
+NRU,Nauru,2000,F,1.62
+MDV,Maldives,2000,A,1.75
+ALB,Albania,2000,F,1.67
+MKD,North Macedonia,2000,F,1.66
+HTI,Haiti,2000,F,1.71
+ERI,Eritrea,2000,M,1.77
+KHM,Cambodia,2000,A,1.81
+TUV,Tuvalu,2000,A,1.76
+ARE,United Arab Emirates,2000,A,1.76
+BIH,Bosnia and Herzegovina,2000,F,1.75
+CRI,Costa Rica,2000,F,1.78
+LBR,Liberia,2000,F,1.81
+KGZ,Kyrgyzstan,2000,F,1.76
+SUR,Suriname,2000,F,1.8
+VCT,Saint Vincent and the Grenadines,2000,F,1.82
+MOZ,Mozambique,2000,M,1.88
+LKA,Sri Lanka,2000,A,1.88
+BLZ,Belize,2000,F,1.95
+ECU,Ecuador,2000,F,1.95
+ITA,Italy,2000,A,9.95
+FIN,Finland,2000,A,10
+MEX,Mexico,2000,M,10.08
+CHL,Chile,2000,M,10.18
+KNA,Saint Kitts and Nevis,2000,M,10.33
+LCA,Saint Lucia,2000,A,10.35
+MDA,Republic of Moldova,2000,A,10.36
+NOR,Norway,2000,M,10.42
+EST,Estonia,2000,A,10.45
+ARG,Argentina,2000,M,10.55
+GEO,Georgia,2000,A,10.57
+STP,Sao Tome and Principe,2000,M,10.64
+UKR,Ukraine,2000,A,10.58
+AUS,Australia,2000,A,10.55
+CMR,Cameroon,2000,A,10.74
+ISL,Iceland,2000,M,10.7
+HRV,Croatia,2000,A,10.94
+KOR,Republic of Korea,2000,A,10.93
+URY,Uruguay,2000,M,11.12
+SVK,Slovakia,2000,A,11.09
+NLD,Netherlands (Kingdom of the),2000,A,11.14
+TZA,United Republic of Tanzania,2000,A,11.43
+BGR,Bulgaria,2000,A,11.37
+BEL,Belgium,2000,A,11.42
+LTU,Lithuania,2000,A,11.5
+BRB,Barbados,2000,M,11.62
+KAZ,Kazakhstan,2000,M,11.71
+ESP,Spain,2000,A,11.67
+DNK,Denmark,2000,A,11.69
+SYC,Seychelles,2000,M,11.83
+BWA,Botswana,2000,M,11.91
+GNQ,Equatorial Guinea,2000,M,12.05
+SVN,Slovenia,2000,A,12.1
+GRD,Grenada,2000,M,12.23
+BDI,Burundi,2000,M,12.22
+JPN,Japan,2000,M,12.19
+GBR,United Kingdom of Great Britain and Northern Ireland,2000,A,12.28
+DOM,Dominican Republic,2000,M,12.38
+HUN,Hungary,2000,A,12.38
+NIU,Niue,2000,M,12.52
+CHE,Switzerland,2000,A,12.48
+AND,Andorra,2000,A,12.55
+BLR,Belarus,2000,A,12.63
+PRT,Portugal,2000,A,12.77
+AUT,Austria,2000,A,12.89
+LAO,Lao People's Democratic Republic,2000,M,13
+DMA,Dominica,2000,M,12.97
+MUS,Mauritius,2000,M,13.13
+NGA,Nigeria,2000,M,13.13
+VEN,Venezuela (Bolivarian Republic of),2000,M,13.1
+COD,Democratic Republic of the Congo,2000,M,13.18
+BFA,Burkina Faso,2000,M,13.42
+GRC,Greece,2000,M,13.65
+FRA,France,2000,A,13.72
+LUX,Luxembourg,2000,A,13.65
+DEU,Germany,2000,A,13.82
+CYP,Cyprus,2000,M,13.76
+RUS,Russian Federation,2000,A,13.86
+BRA,Brazil,2000,M,13.87
+THA,Thailand,2000,M,14.08
+CZE,Czechia,2000,A,14.22
+USA,United States of America,2000,M,14.33
+CAN,Canada,2000,M,14.83
+LVA,Latvia,2000,M,14.76
+SWE,Sweden,2000,M,14.76
+IRL,Ireland,2000,A,15.03
+GAB,Gabon,2000,M,15.21
+NZL,New Zealand,2000,M,15.28
+POL,Poland,2000,M,15.44
+ZAF,South Africa,2000,M,15.76
+FIN,Finland,2000,M,15.85
+ITA,Italy,2000,M,15.88
+SWZ,Eswatini,2000,M,16.19
+AUS,Australia,2000,M,16.37
+LCA,Saint Lucia,2000,M,16.51
+MDA,Republic of Moldova,2000,M,16.77
+KOR,Republic of Korea,2000,M,16.94
+EST,Estonia,2000,M,17.14
+CMR,Cameroon,2000,M,17.28
+NLD,Netherlands (Kingdom of the),2000,M,17.46
+UKR,Ukraine,2000,M,17.58
+HRV,Croatia,2000,M,17.74
+SVK,Slovakia,2000,M,17.69
+UGA,Uganda,2000,A,17.79
+GEO,Georgia,2000,M,18.05
+BEL,Belgium,2000,M,18.09
+ESP,Spain,2000,M,18.36
+DNK,Denmark,2000,M,18.36
+BGR,Bulgaria,2000,M,18.57
+LTU,Lithuania,2000,M,18.81
+AND,Andorra,2000,M,18.91
+ROU,Romania,2000,A,19.05
+TZA,United Republic of Tanzania,2000,M,19.22
+GBR,United Kingdom of Great Britain and Northern Ireland,2000,M,19.44
+SVN,Slovenia,2000,M,19.36
+CHE,Switzerland,2000,M,19.71
+IND,India,2000,A,1.97
+TTO,Trinidad and Tobago,2000,F,2.03
+CPV,Cabo Verde,2000,F,2.02
+VUT,Vanuatu,2000,M,2.09
+BHS,Bahamas,2000,F,2.06
+ETH,Ethiopia,2000,M,2.06
+CUB,Cuba,2000,F,2.15
+COL,Colombia,2000,F,2.12
+PAN,Panama,2000,F,2.09
+KEN,Kenya,2000,A,2.16
+PNG,Papua New Guinea,2000,A,2.18
+GHA,Ghana,2000,F,2.16
+GUY,Guyana,2000,F,2.16
+KAZ,Kazakhstan,2000,F,2.23
+SYR,Syrian Arab Republic,2000,M,2.28
+ARE,United Arab Emirates,2000,M,2.3
+ATG,Antigua and Barbuda,2000,F,2.28
+LBN,Lebanon,2000,A,2.28
+SGP,Singapore,2000,A,2.28
+AGO,Angola,2000,F,2.26
+PHL,Philippines,2000,F,2.29
+TON,Tonga,2000,M,2.43
+MDG,Madagascar,2000,M,2.4
+RWA,Rwanda,2000,M,2.43
+TGO,Togo,2000,M,2.45
+FJI,Fiji,2000,A,2.41
+CAF,Central African Republic,2000,A,2.36
+GTM,Guatemala,2000,A,2.41
+BWA,Botswana,2000,F,2.45
+PRY,Paraguay,2000,F,2.43
+KIR,Kiribati,2000,M,2.51
+TCD,Chad,2000,A,2.51
+TUR,TÃ¼rkiye,2000,A,2.46
+BEN,Benin,2000,A,2.52
+MLT,Malta,2000,F,2.54
+MEX,Mexico,2000,F,2.54
+COK,Cook Islands,2000,A,2.58
+TKM,Turkmenistan,2000,A,2.63
+BHR,Bahrain,2000,A,2.69
+KNA,Saint Kitts and Nevis,2000,F,2.68
+BFA,Burkina Faso,2000,F,2.71
+NIU,Niue,2000,F,2.7
+NGA,Nigeria,2000,F,2.74
+AZE,Azerbaijan,2000,M,2.83
+COG,Congo,2000,A,2.83
+MNG,Mongolia,2000,A,2.83
+TUN,Tunisia,2000,M,2.87
+ISR,Israel,2000,A,2.93
+PER,Peru,2000,F,2.85
+BRB,Barbados,2000,F,2.9
+HUN,Hungary,2000,M,20.13
+PRT,Portugal,2000,M,20.32
+AUT,Austria,2000,M,20.53
+BLR,Belarus,2000,M,20.81
+LUX,Luxembourg,2000,M,21.29
+FRA,France,2000,M,21.82
+DEU,Germany,2000,M,22.02
+CZE,Czechia,2000,M,22.66
+IRL,Ireland,2000,M,23.22
+RUS,Russian Federation,2000,M,23.69
+UGA,Uganda,2000,M,29.29
+MDV,Maldives,2000,M,3.01
+KHM,Cambodia,2000,M,3
+TUV,Tuvalu,2000,M,3.02
+MWI,Malawi,2000,A,3
+ZWE,Zimbabwe,2000,A,3.03
+SYC,Seychelles,2000,F,2.98
+MUS,Mauritius,2000,F,2.97
+NOR,Norway,2000,F,2.98
+BDI,Burundi,2000,F,3.03
+CHL,Chile,2000,F,3.04
+STP,Sao Tome and Principe,2000,F,2.99
+LKA,Sri Lanka,2000,M,3.13
+BOL,Bolivia (Plurinational State of),2000,A,3.14
+HND,Honduras,2000,A,3.09
+SLV,El Salvador,2000,A,3.14
+ARG,Argentina,2000,F,3.12
+GRD,Grenada,2000,F,3.13
+BTN,Bhutan,2000,A,3.16
+ISL,Iceland,2000,F,3.18
+URY,Uruguay,2000,F,3.21
+ZAF,South Africa,2000,F,3.18
+VNM,Viet Nam,2000,A,3.28
+IND,India,2000,M,3.27
+JAM,Jamaica,2000,A,3.34
+DMA,Dominica,2000,F,3.27
+GNQ,Equatorial Guinea,2000,F,3.3
+DOM,Dominican Republic,2000,F,3.32
+VEN,Venezuela (Bolivarian Republic of),2000,F,3.34
+FSM,Micronesia (Federated States of),2000,A,3.39
+LAO,Lao People's Democratic Republic,2000,F,3.41
+JPN,Japan,2000,F,3.38
+THA,Thailand,2000,F,3.45
+SGP,Singapore,2000,M,3.55
+PNG,Papua New Guinea,2000,M,3.5
+UZB,Uzbekistan,2000,A,3.54
+SWZ,Eswatini,2000,F,3.46
+KEN,Kenya,2000,M,3.59
+ZMB,Zambia,2000,A,3.56
+CHN,China,2000,A,3.62
+COD,Democratic Republic of the Congo,2000,F,3.61
+GMB,Gambia,2000,A,3.74
+ARM,Armenia,2000,A,3.71
+CAF,Central African Republic,2000,M,3.77
+LSO,Lesotho,2000,A,3.76
+BRA,Brazil,2000,F,3.76
+GTM,Guatemala,2000,M,3.93
+PRK,Democratic People's Republic of Korea,2000,A,3.87
+NIC,Nicaragua,2000,A,3.93
+GRC,Greece,2000,F,3.89
+CYP,Cyprus,2000,F,3.93
+ROU,Romania,2000,M,30.47
+BHR,Bahrain,2000,M,3.96
+FJI,Fiji,2000,M,3.98
+LBN,Lebanon,2000,M,4.01
+WSM,Samoa,2000,A,4.04
+TZA,United Republic of Tanzania,2000,F,3.99
+USA,United States of America,2000,F,4.04
+GNB,Guinea-Bissau,2000,A,4.15
+HTI,Haiti,2000,A,4.14
+CAN,Canada,2000,F,4.11
+BEN,Benin,2000,M,4.2
+CIV,Cote d'Ivoire,2000,A,4.21
+LVA,Latvia,2000,F,4.17
+ECU,Ecuador,2000,A,4.17
+SWE,Sweden,2000,F,4.18
+GAB,Gabon,2000,F,4.16
+TCD,Chad,2000,M,4.29
+COK,Cook Islands,2000,M,4.26
+TUR,TÃ¼rkiye,2000,M,4.32
+POL,Poland,2000,F,4.31
+ALB,Albania,2000,A,4.43
+GEO,Georgia,2000,F,4.4
+CMR,Cameroon,2000,F,4.42
+LCA,Saint Lucia,2000,F,4.44
+COG,Congo,2000,M,4.55
+MKD,North Macedonia,2000,A,4.46
+LBR,Liberia,2000,A,4.5
+NRU,Nauru,2000,A,4.47
+FIN,Finland,2000,F,4.53
+ITA,Italy,2000,F,4.5
+MNG,Mongolia,2000,M,4.55
+TKM,Turkmenistan,2000,M,4.62
+CRI,Costa Rica,2000,A,4.61
+CPV,Cabo Verde,2000,A,4.57
+VCT,Saint Vincent and the Grenadines,2000,A,4.59
+NZL,New Zealand,2000,F,4.6
+BLZ,Belize,2000,A,4.68
+ISR,Israel,2000,M,4.68
+NAM,Namibia,2000,A,4.65
+SUR,Suriname,2000,A,4.74
+BHS,Bahamas,2000,A,4.83
+BOL,Bolivia (Plurinational State of),2000,M,4.81
+MDA,Republic of Moldova,2000,F,4.77
+HRV,Croatia,2000,F,4.82
+UKR,Ukraine,2000,F,4.8
+BGR,Bulgaria,2000,F,4.8
+BIH,Bosnia and Herzegovina,2000,A,4.92
+EST,Estonia,2000,F,4.87
+AUS,Australia,2000,F,4.92
+BTN,Bhutan,2000,M,5
+HND,Honduras,2000,M,4.97
+TTO,Trinidad and Tobago,2000,A,5.01
+SVK,Slovakia,2000,F,5.01
+NLD,Netherlands (Kingdom of the),2000,F,5.05
+KOR,Republic of Korea,2000,F,5.02
+MWI,Malawi,2000,M,5.12
+AGO,Angola,2000,A,5.19
+BEL,Belgium,2000,F,5.15
+ATG,Antigua and Barbuda,2000,A,5.29
+GHA,Ghana,2000,A,5.32
+SLV,El Salvador,2000,M,5.3
+COL,Colombia,2000,A,5.34
+DNK,Denmark,2000,F,5.27
+SVN,Slovenia,2000,F,5.33
+ESP,Spain,2000,F,5.34
+VNM,Viet Nam,2000,M,5.44
+JAM,Jamaica,2000,M,5.4
+ZWE,Zimbabwe,2000,M,5.36
+CUB,Cuba,2000,A,5.43
+GUY,Guyana,2000,A,5.38
+PAN,Panama,2000,A,5.37
+LTU,Lithuania,2000,F,5.42
+KGZ,Kyrgyzstan,2000,A,5.53
+FSM,Micronesia (Federated States of),2000,M,5.57
+HUN,Hungary,2000,F,5.56
+RUS,Russian Federation,2000,F,5.58
+GBR,United Kingdom of Great Britain and Northern Ireland,2000,F,5.61
+MLT,Malta,2000,A,5.7
+PRY,Paraguay,2000,A,5.68
+CHE,Switzerland,2000,F,5.72
+AND,Andorra,2000,F,5.7
+CHN,China,2000,M,5.77
+PHL,Philippines,2000,A,5.82
+BLR,Belarus,2000,F,5.76
+AUT,Austria,2000,F,5.88
+PRT,Portugal,2000,F,5.92
+ZMB,Zambia,2000,M,5.96
+PER,Peru,2000,A,6.03
+UZB,Uzbekistan,2000,M,6.14
+MEX,Mexico,2000,A,6.16
+DEU,Germany,2000,F,6.21
+ARM,Armenia,2000,M,6.28
+FRA,France,2000,F,6.28
+PRK,Democratic People's Republic of Korea,2000,M,6.39
+GMB,Gambia,2000,M,6.35
+NIC,Nicaragua,2000,M,6.42
+ECU,Ecuador,2000,M,6.43
+CZE,Czechia,2000,F,6.36
+LUX,Luxembourg,2000,F,6.36
+KNA,Saint Kitts and Nevis,2000,A,6.46
+WSM,Samoa,2000,M,6.49
+LSO,Lesotho,2000,M,6.5
+HTI,Haiti,2000,M,6.65
+NOR,Norway,2000,A,6.63
+CHL,Chile,2000,A,6.55
+KAZ,Kazakhstan,2000,A,6.64
+ARG,Argentina,2000,A,6.73
+STP,Sao Tome and Principe,2000,A,6.74
+CIV,Cote d'Ivoire,2000,M,6.9
+BWA,Botswana,2000,A,6.94
+ISL,Iceland,2000,A,6.92
+BRB,Barbados,2000,A,7.02
+URY,Uruguay,2000,A,6.97
+GNB,Guinea-Bissau,2000,M,7.08
+IRL,Ireland,2000,F,7.09
+NRU,Nauru,2000,M,7.18
+UGA,Uganda,2000,F,7.18
+MKD,North Macedonia,2000,M,7.28
+ALB,Albania,2000,M,7.3
+VCT,Saint Vincent and the Grenadines,2000,M,7.25
+BLZ,Belize,2000,M,7.39
+LBR,Liberia,2000,M,7.35
+CRI,Costa Rica,2000,M,7.45
+CPV,Cabo Verde,2000,M,7.41
+SYC,Seychelles,2000,A,7.41
+BDI,Burundi,2000,A,7.48
+SUR,Suriname,2000,M,7.65
+GRD,Grenada,2000,A,7.69
+NIU,Niue,2000,A,7.71
+JPN,Japan,2000,A,7.66
+BHS,Bahamas,2000,M,7.8
+GNQ,Equatorial Guinea,2000,A,7.75
+BFA,Burkina Faso,2000,A,7.86
+DOM,Dominican Republic,2000,A,7.91
+NGA,Nigeria,2000,A,7.93
+MUS,Mauritius,2000,A,8.01
+NAM,Namibia,2000,M,8.06
+TTO,Trinidad and Tobago,2000,M,8.1
+DMA,Dominica,2000,A,8.12
+LAO,Lao People's Democratic Republic,2000,A,8.18
+VEN,Venezuela (Bolivarian Republic of),2000,A,8.17
+BIH,Bosnia and Herzegovina,2000,M,8.32
+AGO,Angola,2000,M,8.32
+COD,Democratic Republic of the Congo,2000,A,8.29
+ROU,Romania,2000,F,8.54
+GHA,Ghana,2000,M,8.62
+THA,Thailand,2000,A,8.61
+CUB,Cuba,2000,M,8.75
+COL,Colombia,2000,M,8.69
+GUY,Guyana,2000,M,8.67
+PAN,Panama,2000,M,8.67
+BRA,Brazil,2000,A,8.71
+GRC,Greece,2000,A,8.73
+ATG,Antigua and Barbuda,2000,M,8.83
+LVA,Latvia,2000,A,8.9
+PRY,Paraguay,2000,M,8.91
+CYP,Cyprus,2000,A,8.86
+MLT,Malta,2000,M,8.96
+ZAF,South Africa,2000,A,8.96
+USA,United States of America,2000,A,9.05
+PER,Peru,2000,M,9.28
+PHL,Philippines,2000,M,9.36
+SWE,Sweden,2000,A,9.37
+CAN,Canada,2000,A,9.38
+SWZ,Eswatini,2000,A,9.43
+GAB,Gabon,2000,A,9.64
+KGZ,Kyrgyzstan,2000,M,9.65
+POL,Poland,2000,A,9.65
+NZL,New Zealand,2000,A,9.77
+,,,,

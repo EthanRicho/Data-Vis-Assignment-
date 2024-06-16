@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Assignment Data Visualisations</title>
     <script src="https://d3js.org/d3.v6.min.js"></script>
-    <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         body {
@@ -62,41 +61,27 @@
 
     <main class="container mx-auto mt-16">
         <div class="content-area">
-            <h1 id="graph-title" class="text-2xl font-bold text-center mb-8 text-white">Alcohol Consumption by Country per capita</h1>
+            <h1 id="graph-title" class="text-2xl font-bold text-center mb-8 text-white">Unemployment rates in Australia by state</h1>
             <div class="dropdown-container flex justify-around mb-4">
                 <!-- Dropdown menu for selecting the year -->
                 <div>
                     <label for="yearSelect" class="block mb-2 text-white">Select Year</label>
                     <select id="yearSelect" class="bg-stone-700 text-white p-2 rounded"></select>
                 </div>
-                <!-- Dropdown menu for selecting the sex -->
-                <div>
-                    <label for="sexSelect" class="block mb-2 text-white">Select Sex</label>
-                    <select id="sexSelect" class="bg-stone-700 text-white p-2 rounded">
-                        <option value="M">Male</option>
-                        <option value="F">Female</option>
-                        <option value="A">All</option>
-                    </select>
-                </div>
-
             </div>
             <!-- Container for the D3 visualization -->
             <div class="flex justify-center bg-stone-800 p-4 rounded-lg">
               <!-- Create an element where the map will take place -->
               <svg id="my_dataviz" width="1000" height="600"></svg>
             </div>
-            <div class="gradient-legend">
-                <div class="legend-label">Lowest</div>
-                <div class="gradient-bar"></div>
-                <div class="legend-label">Highest</div>
+        </div>
+        
     </main>
 
     <!-- Footer -->
     <footer class="bg-stone-800 w-full p-4 mt-8">
-        <div class="container mx-auto text-center">
-        </div>
     </footer>
 
-    <script src="graphOne.js"></script>
+    <script src="graphThree.js"></script>
 </body>
 </html>
